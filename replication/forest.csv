@@ -1,0 +1,1249 @@
+Year,Country,Product,Flows,Value OR Volume,Unit,Superscript
+1990,Australia,Ind. roundwood,Production Quantity,17213,1000 m3,F
+1990,Austria,Ind. roundwood,Production Quantity,14160,1000 m3,F
+1990,Belgium,Ind. roundwood,Production Quantity,4360,1000 m3,I
+1990,Canada,Ind. roundwood,Production Quantity,155958,1000 m3,F
+1990,Denmark,Ind. roundwood,Production Quantity,1942.19,1000 m3,I
+1990,Finland,Ind. roundwood,Production Quantity,40246,1000 m3,F
+1990,France,Ind. roundwood,Production Quantity,31199,1000 m3,F
+1990,Greece,Ind. roundwood,Production Quantity,1146,1000 m3,F
+1990,Italy,Ind. roundwood,Production Quantity,4335,1000 m3,F
+1990,Japan,Ind. roundwood,Production Quantity,29367,1000 m3,I
+1990,Mexico,Ind. roundwood,Production Quantity,7964,1000 m3,I
+1990,Netherlands,Ind. roundwood,Production Quantity,1275,1000 m3,F
+1990,New Zealand,Ind. roundwood,Production Quantity,13127,1000 m3,F
+1990,Norway,Ind. roundwood,Production Quantity,10900,1000 m3,F
+1990,Portugal,Ind. roundwood,Production Quantity,10705,1000 m3,F
+1990,Spain,Ind. roundwood,Production Quantity,13790,1000 m3,F
+1990,Sweden,Ind. roundwood,Production Quantity,49071,1000 m3,F
+1990,United Kingdom,Ind. roundwood,Production Quantity,6125,1000 m3,F
+1990,United States,Ind. roundwood,Production Quantity,427200,1000 m3,F
+1991,Australia,Ind. roundwood,Production Quantity,16604,1000 m3,F
+1991,Austria,Ind. roundwood,Production Quantity,13135,1000 m3,F
+1991,Belgium,Ind. roundwood,Production Quantity,4205,1000 m3,F
+1991,Canada,Ind. roundwood,Production Quantity,153487,1000 m3,F
+1991,Denmark,Ind. roundwood,Production Quantity,2050,1000 m3,I
+1991,Finland,Ind. roundwood,Production Quantity,31941,1000 m3,F
+1991,France,Ind. roundwood,Production Quantity,30318,1000 m3,F
+1991,Germany,Ind. roundwood,Production Quantity,37280,1000 m3,I
+1991,Greece,Ind. roundwood,Production Quantity,1196,1000 m3,F
+1991,Italy,Ind. roundwood,Production Quantity,4088,1000 m3,F
+1991,Japan,Ind. roundwood,Production Quantity,27999,1000 m3,I
+1991,Mexico,Ind. roundwood,Production Quantity,7600,1000 m3,I
+1991,Netherlands,Ind. roundwood,Production Quantity,996,1000 m3,F
+1991,New Zealand,Ind. roundwood,Production Quantity,13820,1000 m3,F
+1991,Norway,Ind. roundwood,Production Quantity,10345,1000 m3,F
+1991,Portugal,Ind. roundwood,Production Quantity,10309,1000 m3,F
+1991,Spain,Ind. roundwood,Production Quantity,12988,1000 m3,F
+1991,Sweden,Ind. roundwood,Production Quantity,47600,1000 m3,F
+1991,United Kingdom,Ind. roundwood,Production Quantity,6122,1000 m3,F
+1991,United States,Ind. roundwood,Production Quantity,388300,1000 m3,F
+1990,Australia,Ind. roundwood (C),Production Quantity,6948,1000 m3,F
+1990,Austria,Ind. roundwood (C),Production Quantity,13048,1000 m3,F
+1990,Belgium,Ind. roundwood (C),Production Quantity,3210,1000 m3,I
+1990,Canada,Ind. roundwood (C),Production Quantity,141089,1000 m3,F
+1990,Denmark,Ind. roundwood (C),Production Quantity,1142.19,1000 m3,F
+1990,Finland,Ind. roundwood (C),Production Quantity,34116,1000 m3,F
+1990,France,Ind. roundwood (C),Production Quantity,17699,1000 m3,F
+1990,Greece,Ind. roundwood (C),Production Quantity,504,1000 m3,F
+1990,Italy,Ind. roundwood (C),Production Quantity,1175,1000 m3,F
+1990,Japan,Ind. roundwood (C),Production Quantity,19616,1000 m3,I
+1990,Mexico,Ind. roundwood (C),Production Quantity,7064,1000 m3,F
+1990,Netherlands,Ind. roundwood (C),Production Quantity,955,1000 m3,F
+1990,New Zealand,Ind. roundwood (C),Production Quantity,12754,1000 m3,F
+1990,Norway,Ind. roundwood (C),Production Quantity,10460,1000 m3,F
+1990,Portugal,Ind. roundwood (C),Production Quantity,6534,1000 m3,F
+1990,Spain,Ind. roundwood (C),Production Quantity,9246,1000 m3,F
+1990,Sweden,Ind. roundwood (C),Production Quantity,43838,1000 m3,F
+1990,United Kingdom,Ind. roundwood (C),Production Quantity,5160,1000 m3,F
+1990,United States,Ind. roundwood (C),Production Quantity,312200,1000 m3,F
+1991,Australia,Ind. roundwood (C),Production Quantity,6567,1000 m3,F
+1991,Austria,Ind. roundwood (C),Production Quantity,12067,1000 m3,F
+1991,Belgium,Ind. roundwood (C),Production Quantity,3120,1000 m3,F
+1991,Canada,Ind. roundwood (C),Production Quantity,138379,1000 m3,F
+1991,Denmark,Ind. roundwood (C),Production Quantity,1300,1000 m3,I
+1991,Finland,Ind. roundwood (C),Production Quantity,27411,1000 m3,F
+1991,France,Ind. roundwood (C),Production Quantity,17009,1000 m3,F
+1991,Germany,Ind. roundwood (C),Production Quantity,30000,1000 m3,I
+1991,Greece,Ind. roundwood (C),Production Quantity,522,1000 m3,F
+1991,Italy,Ind. roundwood (C),Production Quantity,1057,1000 m3,F
+1991,Japan,Ind. roundwood (C),Production Quantity,19098,1000 m3,I
+1991,Mexico,Ind. roundwood (C),Production Quantity,6700,1000 m3,F
+1991,Netherlands,Ind. roundwood (C),Production Quantity,693,1000 m3,F
+1991,New Zealand,Ind. roundwood (C),Production Quantity,13597,1000 m3,F
+1991,Norway,Ind. roundwood (C),Production Quantity,9956,1000 m3,F
+1991,Portugal,Ind. roundwood (C),Production Quantity,5562,1000 m3,F
+1991,Spain,Ind. roundwood (C),Production Quantity,8699,1000 m3,F
+1991,Sweden,Ind. roundwood (C),Production Quantity,42520,1000 m3,F
+1991,United Kingdom,Ind. roundwood (C),Production Quantity,5110,1000 m3,F
+1991,United States,Ind. roundwood (C),Production Quantity,273700,1000 m3,F
+1990,Australia,Ind. roundwood (NC),Production Quantity,10265,1000 m3,F
+1990,Austria,Ind. roundwood (NC),Production Quantity,1112,1000 m3,F
+1990,Belgium,Ind. roundwood (NC),Production Quantity,1150,1000 m3,F
+1990,Canada,Ind. roundwood (NC),Production Quantity,14869,1000 m3,F
+1990,Denmark,Ind. roundwood (NC),Production Quantity,800,1000 m3,I
+1990,Finland,Ind. roundwood (NC),Production Quantity,6130,1000 m3,F
+1990,France,Ind. roundwood (NC),Production Quantity,13702.1,1000 m3,I
+1990,Greece,Ind. roundwood (NC),Production Quantity,642,1000 m3,F
+1990,Italy,Ind. roundwood (NC),Production Quantity,3160,1000 m3,F
+1990,Japan,Ind. roundwood (NC),Production Quantity,9751,1000 m3,F
+1990,Mexico,Ind. roundwood (NC),Production Quantity,900,1000 m3,I
+1990,Netherlands,Ind. roundwood (NC),Production Quantity,320,1000 m3,F
+1990,New Zealand,Ind. roundwood (NC),Production Quantity,373,1000 m3,F
+1990,Norway,Ind. roundwood (NC),Production Quantity,440,1000 m3,F
+1990,Portugal,Ind. roundwood (NC),Production Quantity,4171,1000 m3,F
+1990,Spain,Ind. roundwood (NC),Production Quantity,4544,1000 m3,F
+1990,Sweden,Ind. roundwood (NC),Production Quantity,5233,1000 m3,F
+1990,United Kingdom,Ind. roundwood (NC),Production Quantity,965,1000 m3,F
+1990,United States,Ind. roundwood (NC),Production Quantity,115000,1000 m3,F
+1991,Australia,Ind. roundwood (NC),Production Quantity,10037,1000 m3,F
+1991,Austria,Ind. roundwood (NC),Production Quantity,1068,1000 m3,F
+1991,Belgium,Ind. roundwood (NC),Production Quantity,1085,1000 m3,F
+1991,Canada,Ind. roundwood (NC),Production Quantity,15108,1000 m3,F
+1991,Denmark,Ind. roundwood (NC),Production Quantity,750,1000 m3,I
+1991,Finland,Ind. roundwood (NC),Production Quantity,4530,1000 m3,F
+1991,France,Ind. roundwood (NC),Production Quantity,13516.1,1000 m3,I
+1991,Germany,Ind. roundwood (NC),Production Quantity,7280,1000 m3,F
+1991,Greece,Ind. roundwood (NC),Production Quantity,674,1000 m3,F
+1991,Italy,Ind. roundwood (NC),Production Quantity,3031,1000 m3,F
+1991,Japan,Ind. roundwood (NC),Production Quantity,8901,1000 m3,F
+1991,Mexico,Ind. roundwood (NC),Production Quantity,900,1000 m3,I
+1991,Netherlands,Ind. roundwood (NC),Production Quantity,303,1000 m3,F
+1991,New Zealand,Ind. roundwood (NC),Production Quantity,223,1000 m3,F
+1991,Norway,Ind. roundwood (NC),Production Quantity,389,1000 m3,F
+1991,Portugal,Ind. roundwood (NC),Production Quantity,4747,1000 m3,F
+1991,Spain,Ind. roundwood (NC),Production Quantity,4289,1000 m3,F
+1991,Sweden,Ind. roundwood (NC),Production Quantity,5080,1000 m3,F
+1991,United Kingdom,Ind. roundwood (NC),Production Quantity,1012,1000 m3,F
+1991,United States,Ind. roundwood (NC),Production Quantity,114600,1000 m3,F
+1990,Australia,Ind. roundwood (NC.T.),Production Quantity,40,1000 m3,I
+1990,Austria,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,
+1990,Belgium,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,
+1990,Canada,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,
+1990,Denmark,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,
+1990,Finland,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,
+1990,France,Ind. roundwood (NC.T.),Production Quantity,202.1,1000 m3,I
+1990,Greece,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,
+1990,Italy,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,
+1990,Japan,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,
+1990,Mexico,Ind. roundwood (NC.T.),Production Quantity,356,1000 m3,I
+1990,Netherlands,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,I
+1990,New Zealand,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,
+1990,Norway,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,I
+1990,Portugal,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,
+1990,Spain,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,I
+1990,Sweden,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,I
+1990,United Kingdom,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,I
+1990,United States,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,
+1991,Australia,Ind. roundwood (NC.T.),Production Quantity,40,1000 m3,I
+1991,Austria,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,
+1991,Belgium,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,
+1991,Canada,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,
+1991,Denmark,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,
+1991,Finland,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,
+1991,France,Ind. roundwood (NC.T.),Production Quantity,207.1,1000 m3,I
+1991,Germany,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,
+1991,Greece,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,
+1991,Italy,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,
+1991,Japan,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,
+1991,Mexico,Ind. roundwood (NC.T.),Production Quantity,344,1000 m3,I
+1991,Netherlands,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,I
+1991,New Zealand,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,
+1991,Norway,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,I
+1991,Portugal,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,
+1991,Spain,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,I
+1991,Sweden,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,I
+1991,United Kingdom,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,I
+1991,United States,Ind. roundwood (NC.T.),Production Quantity,0,1000 m3,
+1990,Australia,Sawnwood,Production Quantity,3151,1000 m3,F
+1990,Austria,Sawnwood,Production Quantity,7508.9,1000 m3,F
+1990,Belgium,Sawnwood,Production Quantity,1194,1000 m3,F
+1990,Canada,Sawnwood,Production Quantity,39740.76,1000 m3,I
+1990,Denmark,Sawnwood,Production Quantity,855.5,1000 m3,I
+1990,Finland,Sawnwood,Production Quantity,7486.5,1000 m3,I
+1990,France,Sawnwood,Production Quantity,10960,1000 m3,F
+1990,Greece,Sawnwood,Production Quantity,355.2,1000 m3,I
+1990,Italy,Sawnwood,Production Quantity,1950,1000 m3,F
+1990,Japan,Sawnwood,Production Quantity,29781.01,1000 m3,F
+1990,Mexico,Sawnwood,Production Quantity,2366,1000 m3,F
+1990,Netherlands,Sawnwood,Production Quantity,455,1000 m3,I
+1990,New Zealand,Sawnwood,Production Quantity,2198,1000 m3,F
+1990,Norway,Sawnwood,Production Quantity,2412.8,1000 m3,F
+1990,Portugal,Sawnwood,Production Quantity,2040,1000 m3,I
+1990,Spain,Sawnwood,Production Quantity,3267,1000 m3,F
+1990,Sweden,Sawnwood,Production Quantity,12018,1000 m3,F
+1990,United Kingdom,Sawnwood,Production Quantity,2271,1000 m3,F
+1990,United States,Sawnwood,Production Quantity,86144.7,1000 m3,F
+1991,Australia,Sawnwood,Production Quantity,2858,1000 m3,F
+1991,Austria,Sawnwood,Production Quantity,7238.9,1000 m3,F
+1991,Belgium,Sawnwood,Production Quantity,1244,1000 m3,F
+1991,Canada,Sawnwood,Production Quantity,37481.15,1000 m3,I
+1991,Denmark,Sawnwood,Production Quantity,855.5,1000 m3,I
+1991,Finland,Sawnwood,Production Quantity,6460,1000 m3,I
+1991,France,Sawnwood,Production Quantity,10974,1000 m3,F
+1991,Germany,Sawnwood,Production Quantity,13322,1000 m3,F
+1991,Greece,Sawnwood,Production Quantity,387,1000 m3,I
+1991,Italy,Sawnwood,Production Quantity,1850,1000 m3,F
+1991,Japan,Sawnwood,Production Quantity,28264.01,1000 m3,F
+1991,Mexico,Sawnwood,Production Quantity,2696,1000 m3,F
+1991,Netherlands,Sawnwood,Production Quantity,425,1000 m3,I
+1991,New Zealand,Sawnwood,Production Quantity,2263,1000 m3,F
+1991,Norway,Sawnwood,Production Quantity,2261.9,1000 m3,F
+1991,Portugal,Sawnwood,Production Quantity,1970,1000 m3,F
+1991,Spain,Sawnwood,Production Quantity,3162,1000 m3,F
+1991,Sweden,Sawnwood,Production Quantity,11463,1000 m3,F
+1991,United Kingdom,Sawnwood,Production Quantity,2241,1000 m3,F
+1991,United States,Sawnwood,Production Quantity,80476.71,1000 m3,F
+1990,Australia,Sawnwood (C),Production Quantity,1405,1000 m3,F
+1990,Austria,Sawnwood (C),Production Quantity,7211.5,1000 m3,F
+1990,Belgium,Sawnwood (C),Production Quantity,930,1000 m3,F
+1990,Canada,Sawnwood (C),Production Quantity,38536.76,1000 m3,E
+1990,Denmark,Sawnwood (C),Production Quantity,450,1000 m3,E
+1990,Finland,Sawnwood (C),Production Quantity,7400,1000 m3,E
+1990,France,Sawnwood (C),Production Quantity,7049,1000 m3,F
+1990,Greece,Sawnwood (C),Production Quantity,185.1,1000 m3,E
+1990,Italy,Sawnwood (C),Production Quantity,875,1000 m3,F
+1990,Japan,Sawnwood (C),Production Quantity,26421.01,1000 m3,F
+1990,Mexico,Sawnwood (C),Production Quantity,2027.5,1000 m3,F
+1990,Netherlands,Sawnwood (C),Production Quantity,175,1000 m3,E
+1990,New Zealand,Sawnwood (C),Production Quantity,2161,1000 m3,F
+1990,Norway,Sawnwood (C),Production Quantity,2400.9,1000 m3,F
+1990,Portugal,Sawnwood (C),Production Quantity,1700,1000 m3,E
+1990,Spain,Sawnwood (C),Production Quantity,2697,1000 m3,F
+1990,Sweden,Sawnwood (C),Production Quantity,11798,1000 m3,F
+1990,United Kingdom,Sawnwood (C),Production Quantity,1935,1000 m3,F
+1990,United States,Sawnwood (C),Production Quantity,60844.7,1000 m3,F
+1991,Australia,Sawnwood (C),Production Quantity,1337,1000 m3,F
+1991,Austria,Sawnwood (C),Production Quantity,6941.5,1000 m3,F
+1991,Belgium,Sawnwood (C),Production Quantity,960,1000 m3,F
+1991,Canada,Sawnwood (C),Production Quantity,36478.15,1000 m3,E
+1991,Denmark,Sawnwood (C),Production Quantity,450,1000 m3,E
+1991,Finland,Sawnwood (C),Production Quantity,6430,1000 m3,E
+1991,France,Sawnwood (C),Production Quantity,6904,1000 m3,F
+1991,Germany,Sawnwood (C),Production Quantity,11599,1000 m3,F
+1991,Greece,Sawnwood (C),Production Quantity,198,1000 m3,E
+1991,Italy,Sawnwood (C),Production Quantity,825,1000 m3,F
+1991,Japan,Sawnwood (C),Production Quantity,25075.01,1000 m3,F
+1991,Mexico,Sawnwood (C),Production Quantity,2345,1000 m3,F
+1991,Netherlands,Sawnwood (C),Production Quantity,140,1000 m3,E
+1991,New Zealand,Sawnwood (C),Production Quantity,2198,1000 m3,F
+1991,Norway,Sawnwood (C),Production Quantity,2250,1000 m3,F
+1991,Portugal,Sawnwood (C),Production Quantity,1650,1000 m3,F
+1991,Spain,Sawnwood (C),Production Quantity,2559,1000 m3,F
+1991,Sweden,Sawnwood (C),Production Quantity,11250,1000 m3,F
+1991,United Kingdom,Sawnwood (C),Production Quantity,1894,1000 m3,F
+1991,United States,Sawnwood (C),Production Quantity,56373.7,1000 m3,F
+1990,Australia,Sawnwood (NC),Production Quantity,1746,1000 m3,F
+1990,Austria,Sawnwood (NC),Production Quantity,297.4,1000 m3,F
+1990,Belgium,Sawnwood (NC),Production Quantity,264,1000 m3,F
+1990,Canada,Sawnwood (NC),Production Quantity,1204,1000 m3,F
+1990,Denmark,Sawnwood (NC),Production Quantity,405.5,1000 m3,F
+1990,Finland,Sawnwood (NC),Production Quantity,86.5,1000 m3,F
+1990,France,Sawnwood (NC),Production Quantity,3991.84,1000 m3,I
+1990,Greece,Sawnwood (NC),Production Quantity,170.1,1000 m3,F
+1990,Italy,Sawnwood (NC),Production Quantity,1075,1000 m3,F
+1990,Japan,Sawnwood (NC),Production Quantity,3360,1000 m3,F
+1990,Mexico,Sawnwood (NC),Production Quantity,338.5,1000 m3,F
+1990,Netherlands,Sawnwood (NC),Production Quantity,280,1000 m3,F
+1990,New Zealand,Sawnwood (NC),Production Quantity,37,1000 m3,F
+1990,Norway,Sawnwood (NC),Production Quantity,11.9,1000 m3,F
+1990,Portugal,Sawnwood (NC),Production Quantity,340,1000 m3,F
+1990,Spain,Sawnwood (NC),Production Quantity,570,1000 m3,F
+1990,Sweden,Sawnwood (NC),Production Quantity,220,1000 m3,F
+1990,United Kingdom,Sawnwood (NC),Production Quantity,336,1000 m3,F
+1990,United States,Sawnwood (NC),Production Quantity,25300,1000 m3,F
+1991,Australia,Sawnwood (NC),Production Quantity,1521,1000 m3,F
+1991,Austria,Sawnwood (NC),Production Quantity,297.4,1000 m3,F
+1991,Belgium,Sawnwood (NC),Production Quantity,284,1000 m3,F
+1991,Canada,Sawnwood (NC),Production Quantity,1003,1000 m3,F
+1991,Denmark,Sawnwood (NC),Production Quantity,405.5,1000 m3,F
+1991,Finland,Sawnwood (NC),Production Quantity,30,1000 m3,F
+1991,France,Sawnwood (NC),Production Quantity,4152.84,1000 m3,I
+1991,Germany,Sawnwood (NC),Production Quantity,1723,1000 m3,F
+1991,Greece,Sawnwood (NC),Production Quantity,189,1000 m3,F
+1991,Italy,Sawnwood (NC),Production Quantity,1025,1000 m3,F
+1991,Japan,Sawnwood (NC),Production Quantity,3189,1000 m3,F
+1991,Mexico,Sawnwood (NC),Production Quantity,351,1000 m3,F
+1991,Netherlands,Sawnwood (NC),Production Quantity,285,1000 m3,F
+1991,New Zealand,Sawnwood (NC),Production Quantity,65,1000 m3,F
+1991,Norway,Sawnwood (NC),Production Quantity,11.9,1000 m3,F
+1991,Portugal,Sawnwood (NC),Production Quantity,320,1000 m3,F
+1991,Spain,Sawnwood (NC),Production Quantity,603,1000 m3,F
+1991,Sweden,Sawnwood (NC),Production Quantity,213,1000 m3,F
+1991,United Kingdom,Sawnwood (NC),Production Quantity,347,1000 m3,F
+1991,United States,Sawnwood (NC),Production Quantity,24103.01,1000 m3,F
+1990,Australia,Sawnwood (NC.T.),Production Quantity,10,1000 m3,I
+1990,Austria,Sawnwood (NC.T.),Production Quantity,0,1000 m3,
+1990,Belgium,Sawnwood (NC.T.),Production Quantity,15,1000 m3,I
+1990,Canada,Sawnwood (NC.T.),Production Quantity,0,1000 m3,
+1990,Denmark,Sawnwood (NC.T.),Production Quantity,20,1000 m3,I
+1990,Finland,Sawnwood (NC.T.),Production Quantity,0,1000 m3,
+1990,France,Sawnwood (NC.T.),Production Quantity,431.84,1000 m3,I
+1990,Greece,Sawnwood (NC.T.),Production Quantity,17,1000 m3,I
+1990,Italy,Sawnwood (NC.T.),Production Quantity,107,1000 m3,I
+1990,Japan,Sawnwood (NC.T.),Production Quantity,1747,1000 m3,I
+1990,Mexico,Sawnwood (NC.T.),Production Quantity,155,1000 m3,I
+1990,Netherlands,Sawnwood (NC.T.),Production Quantity,45,1000 m3,I
+1990,New Zealand,Sawnwood (NC.T.),Production Quantity,0,1000 m3,
+1990,Norway,Sawnwood (NC.T.),Production Quantity,0,1000 m3,
+1990,Portugal,Sawnwood (NC.T.),Production Quantity,85,1000 m3,I
+1990,Spain,Sawnwood (NC.T.),Production Quantity,30,1000 m3,I
+1990,Sweden,Sawnwood (NC.T.),Production Quantity,0,1000 m3,I
+1990,United Kingdom,Sawnwood (NC.T.),Production Quantity,24,1000 m3,I
+1990,United States,Sawnwood (NC.T.),Production Quantity,0,1000 m3,
+1991,Australia,Sawnwood (NC.T.),Production Quantity,10,1000 m3,I
+1991,Austria,Sawnwood (NC.T.),Production Quantity,0,1000 m3,
+1991,Belgium,Sawnwood (NC.T.),Production Quantity,15,1000 m3,I
+1991,Canada,Sawnwood (NC.T.),Production Quantity,0,1000 m3,
+1991,Denmark,Sawnwood (NC.T.),Production Quantity,20,1000 m3,I
+1991,Finland,Sawnwood (NC.T.),Production Quantity,0,1000 m3,
+1991,France,Sawnwood (NC.T.),Production Quantity,448.84,1000 m3,I
+1991,Germany,Sawnwood (NC.T.),Production Quantity,103,1000 m3,I
+1991,Greece,Sawnwood (NC.T.),Production Quantity,18,1000 m3,I
+1991,Italy,Sawnwood (NC.T.),Production Quantity,102,1000 m3,I
+1991,Japan,Sawnwood (NC.T.),Production Quantity,1658,1000 m3,I
+1991,Mexico,Sawnwood (NC.T.),Production Quantity,161,1000 m3,I
+1991,Netherlands,Sawnwood (NC.T.),Production Quantity,45,1000 m3,I
+1991,New Zealand,Sawnwood (NC.T.),Production Quantity,0,1000 m3,
+1991,Norway,Sawnwood (NC.T.),Production Quantity,0,1000 m3,
+1991,Portugal,Sawnwood (NC.T.),Production Quantity,80,1000 m3,I
+1991,Spain,Sawnwood (NC.T.),Production Quantity,30,1000 m3,I
+1991,Sweden,Sawnwood (NC.T.),Production Quantity,0,1000 m3,I
+1991,United Kingdom,Sawnwood (NC.T.),Production Quantity,15,1000 m3,I
+1991,United States,Sawnwood (NC.T.),Production Quantity,0,1000 m3,
+1990,Australia,Veneer,Production Quantity,29,1000 m3,I
+1990,Austria,Veneer,Production Quantity,38,1000 m3,I
+1990,Belgium,Veneer,Production Quantity,85,1000 m3,I
+1990,Canada,Veneer,Production Quantity,501,1000 m3,I
+1990,Denmark,Veneer,Production Quantity,5.68,1000 m3,I
+1990,Finland,Veneer,Production Quantity,35,1000 m3,I
+1990,France,Veneer,Production Quantity,58,1000 m3,I
+1990,Greece,Veneer,Production Quantity,20,1000 m3,I
+1990,Italy,Veneer,Production Quantity,622,1000 m3,I
+1990,Japan,Veneer,Production Quantity,307.1,1000 m3,I
+1990,Mexico,Veneer,Production Quantity,5,1000 m3,I
+1990,Netherlands,Veneer,Production Quantity,20,1000 m3,I
+1990,New Zealand,Veneer,Production Quantity,210,1000 m3,I
+1990,Norway,Veneer,Production Quantity,0,1000 m3,I
+1990,Portugal,Veneer,Production Quantity,165,1000 m3,I
+1990,Spain,Veneer,Production Quantity,90,1000 m3,I
+1990,Sweden,Veneer,Production Quantity,13,1000 m3,I
+1990,United Kingdom,Veneer,Production Quantity,20,1000 m3,I
+1990,United States,Veneer,Production Quantity,90,1000 m3,I
+1991,Australia,Veneer,Production Quantity,29,1000 m3,I
+1991,Austria,Veneer,Production Quantity,38,1000 m3,I
+1991,Belgium,Veneer,Production Quantity,85,1000 m3,I
+1991,Canada,Veneer,Production Quantity,504,1000 m3,I
+1991,Denmark,Veneer,Production Quantity,5.68,1000 m3,I
+1991,Finland,Veneer,Production Quantity,35,1000 m3,I
+1991,France,Veneer,Production Quantity,58,1000 m3,I
+1991,Germany,Veneer,Production Quantity,445,1000 m3,I
+1991,Greece,Veneer,Production Quantity,20,1000 m3,I
+1991,Italy,Veneer,Production Quantity,436,1000 m3,I
+1991,Japan,Veneer,Production Quantity,303.48,1000 m3,I
+1991,Mexico,Veneer,Production Quantity,10,1000 m3,I
+1991,Netherlands,Veneer,Production Quantity,15,1000 m3,I
+1991,New Zealand,Veneer,Production Quantity,210,1000 m3,I
+1991,Norway,Veneer,Production Quantity,0,1000 m3,I
+1991,Portugal,Veneer,Production Quantity,135,1000 m3,I
+1991,Spain,Veneer,Production Quantity,90,1000 m3,I
+1991,Sweden,Veneer,Production Quantity,13,1000 m3,I
+1991,United Kingdom,Veneer,Production Quantity,20,1000 m3,I
+1991,United States,Veneer,Production Quantity,90,1000 m3,I
+1990,Australia,Veneer (C),Production Quantity,9,1000 m3,I
+1990,Austria,Veneer (C),Production Quantity,28,1000 m3,I
+1990,Belgium,Veneer (C),Production Quantity,45,1000 m3,I
+1990,Canada,Veneer (C),Production Quantity,401,1000 m3,I
+1990,Denmark,Veneer (C),Production Quantity,1.68,1000 m3,I
+1990,Finland,Veneer (C),Production Quantity,20,1000 m3,I
+1990,France,Veneer (C),Production Quantity,25,1000 m3,I
+1990,Greece,Veneer (C),Production Quantity,10,1000 m3,I
+1990,Italy,Veneer (C),Production Quantity,62,1000 m3,I
+1990,Japan,Veneer (C),Production Quantity,15.1,1000 m3,I
+1990,Mexico,Veneer (C),Production Quantity,4.75,1000 m3,I
+1990,Netherlands,Veneer (C),Production Quantity,0,1000 m3,I
+1990,New Zealand,Veneer (C),Production Quantity,210,1000 m3,I
+1990,Norway,Veneer (C),Production Quantity,0,1000 m3,I
+1990,Portugal,Veneer (C),Production Quantity,140,1000 m3,I
+1990,Spain,Veneer (C),Production Quantity,12,1000 m3,I
+1990,Sweden,Veneer (C),Production Quantity,10,1000 m3,I
+1990,United Kingdom,Veneer (C),Production Quantity,10,1000 m3,I
+1990,United States,Veneer (C),Production Quantity,0,1000 m3,
+1991,Australia,Veneer (C),Production Quantity,9,1000 m3,I
+1991,Austria,Veneer (C),Production Quantity,28,1000 m3,I
+1991,Belgium,Veneer (C),Production Quantity,45,1000 m3,I
+1991,Canada,Veneer (C),Production Quantity,404,1000 m3,I
+1991,Denmark,Veneer (C),Production Quantity,1.68,1000 m3,I
+1991,Finland,Veneer (C),Production Quantity,20,1000 m3,I
+1991,France,Veneer (C),Production Quantity,25,1000 m3,
+1991,Germany,Veneer (C),Production Quantity,445,1000 m3,I
+1991,Greece,Veneer (C),Production Quantity,10,1000 m3,I
+1991,Italy,Veneer (C),Production Quantity,43,1000 m3,I
+1991,Japan,Veneer (C),Production Quantity,15.48,1000 m3,I
+1991,Mexico,Veneer (C),Production Quantity,9.5,1000 m3,I
+1991,Netherlands,Veneer (C),Production Quantity,0,1000 m3,I
+1991,New Zealand,Veneer (C),Production Quantity,210,1000 m3,X
+1991,Norway,Veneer (C),Production Quantity,0,1000 m3,I
+1991,Portugal,Veneer (C),Production Quantity,110,1000 m3,I
+1991,Spain,Veneer (C),Production Quantity,12,1000 m3,I
+1991,Sweden,Veneer (C),Production Quantity,10,1000 m3,I
+1991,United Kingdom,Veneer (C),Production Quantity,10,1000 m3,I
+1991,United States,Veneer (C),Production Quantity,0,1000 m3,
+1990,Australia,Veneer (NC),Production Quantity,20,1000 m3,I
+1990,Austria,Veneer (NC),Production Quantity,10,1000 m3,I
+1990,Belgium,Veneer (NC),Production Quantity,40,1000 m3,I
+1990,Canada,Veneer (NC),Production Quantity,100,1000 m3,I
+1990,Denmark,Veneer (NC),Production Quantity,4,1000 m3,I
+1990,Finland,Veneer (NC),Production Quantity,15,1000 m3,I
+1990,France,Veneer (NC),Production Quantity,33,1000 m3,I
+1990,Greece,Veneer (NC),Production Quantity,10,1000 m3,I
+1990,Italy,Veneer (NC),Production Quantity,560,1000 m3,I
+1990,Japan,Veneer (NC),Production Quantity,292,1000 m3,I
+1990,Mexico,Veneer (NC),Production Quantity,0.25,1000 m3,RI
+1990,Netherlands,Veneer (NC),Production Quantity,20,1000 m3,I
+1990,New Zealand,Veneer (NC),Production Quantity,0,1000 m3,I
+1990,Norway,Veneer (NC),Production Quantity,0,1000 m3,I
+1990,Portugal,Veneer (NC),Production Quantity,25,1000 m3,I
+1990,Spain,Veneer (NC),Production Quantity,78,1000 m3,I
+1990,Sweden,Veneer (NC),Production Quantity,3,1000 m3,I
+1990,United Kingdom,Veneer (NC),Production Quantity,10,1000 m3,I
+1990,United States,Veneer (NC),Production Quantity,90,1000 m3,I
+1991,Australia,Veneer (NC),Production Quantity,20,1000 m3,I
+1991,Austria,Veneer (NC),Production Quantity,10,1000 m3,I
+1991,Belgium,Veneer (NC),Production Quantity,40,1000 m3,I
+1991,Canada,Veneer (NC),Production Quantity,100,1000 m3,I
+1991,Denmark,Veneer (NC),Production Quantity,4,1000 m3,I
+1991,Finland,Veneer (NC),Production Quantity,15,1000 m3,X
+1991,France,Veneer (NC),Production Quantity,33,1000 m3,I
+1991,Germany,Veneer (NC),Production Quantity,0,1000 m3,I
+1991,Greece,Veneer (NC),Production Quantity,10,1000 m3,I
+1991,Italy,Veneer (NC),Production Quantity,393,1000 m3,I
+1991,Japan,Veneer (NC),Production Quantity,288,1000 m3,I
+1991,Mexico,Veneer (NC),Production Quantity,0.5,1000 m3,I
+1991,Netherlands,Veneer (NC),Production Quantity,15,1000 m3,I
+1991,New Zealand,Veneer (NC),Production Quantity,0,1000 m3,I
+1991,Norway,Veneer (NC),Production Quantity,0,1000 m3,I
+1991,Portugal,Veneer (NC),Production Quantity,25,1000 m3,I
+1991,Spain,Veneer (NC),Production Quantity,78,1000 m3,I
+1991,Sweden,Veneer (NC),Production Quantity,3,1000 m3,I
+1991,United Kingdom,Veneer (NC),Production Quantity,10,1000 m3,I
+1991,United States,Veneer (NC),Production Quantity,90,1000 m3,I
+1990,Australia,Veneer (NC.T.),Production Quantity,0,1000 m3,I
+1990,Austria,Veneer (NC.T.),Production Quantity,0,1000 m3,
+1990,Belgium,Veneer (NC.T.),Production Quantity,3,1000 m3,I
+1990,Canada,Veneer (NC.T.),Production Quantity,0,1000 m3,I
+1990,Denmark,Veneer (NC.T.),Production Quantity,0,1000 m3,I
+1990,Finland,Veneer (NC.T.),Production Quantity,0,1000 m3,I
+1990,France,Veneer (NC.T.),Production Quantity,2,1000 m3,I
+1990,Greece,Veneer (NC.T.),Production Quantity,7.5,1000 m3,I
+1990,Italy,Veneer (NC.T.),Production Quantity,117,1000 m3,I
+1990,Japan,Veneer (NC.T.),Production Quantity,189,1000 m3,I
+1990,Mexico,Veneer (NC.T.),Production Quantity,0.25,1000 m3,RI
+1990,Netherlands,Veneer (NC.T.),Production Quantity,14.6,1000 m3,I
+1990,New Zealand,Veneer (NC.T.),Production Quantity,0,1000 m3,I
+1990,Norway,Veneer (NC.T.),Production Quantity,0,1000 m3,I
+1990,Portugal,Veneer (NC.T.),Production Quantity,5,1000 m3,I
+1990,Spain,Veneer (NC.T.),Production Quantity,32,1000 m3,I
+1990,Sweden,Veneer (NC.T.),Production Quantity,0,1000 m3,I
+1990,United Kingdom,Veneer (NC.T.),Production Quantity,0,1000 m3,
+1990,United States,Veneer (NC.T.),Production Quantity,0,1000 m3,I
+1991,Australia,Veneer (NC.T.),Production Quantity,0,1000 m3,I
+1991,Austria,Veneer (NC.T.),Production Quantity,0.4,1000 m3,RI
+1991,Belgium,Veneer (NC.T.),Production Quantity,3,1000 m3,I
+1991,Canada,Veneer (NC.T.),Production Quantity,0,1000 m3,I
+1991,Denmark,Veneer (NC.T.),Production Quantity,0,1000 m3,I
+1991,Finland,Veneer (NC.T.),Production Quantity,0,1000 m3,I
+1991,France,Veneer (NC.T.),Production Quantity,2,1000 m3,I
+1991,Germany,Veneer (NC.T.),Production Quantity,0,1000 m3,I
+1991,Greece,Veneer (NC.T.),Production Quantity,7.5,1000 m3,I
+1991,Italy,Veneer (NC.T.),Production Quantity,82,1000 m3,I
+1991,Japan,Veneer (NC.T.),Production Quantity,187,1000 m3,I
+1991,Mexico,Veneer (NC.T.),Production Quantity,0.5,1000 m3,I
+1991,Netherlands,Veneer (NC.T.),Production Quantity,11,1000 m3,I
+1991,New Zealand,Veneer (NC.T.),Production Quantity,0,1000 m3,I
+1991,Norway,Veneer (NC.T.),Production Quantity,0,1000 m3,I
+1991,Portugal,Veneer (NC.T.),Production Quantity,5,1000 m3,I
+1991,Spain,Veneer (NC.T.),Production Quantity,32,1000 m3,I
+1991,Sweden,Veneer (NC.T.),Production Quantity,0,1000 m3,I
+1991,United Kingdom,Veneer (NC.T.),Production Quantity,0,1000 m3,
+1991,United States,Veneer (NC.T.),Production Quantity,0,1000 m3,I
+1990,Australia,Plywood,Production Quantity,125,1000 m3,I
+1990,Austria,Plywood,Production Quantity,161.6,1000 m3,I
+1990,Belgium,Plywood,Production Quantity,65,1000 m3,I
+1990,Canada,Plywood,Production Quantity,2228,1000 m3,I
+1990,Denmark,Plywood,Production Quantity,30.4,1000 m3,I
+1990,Finland,Plywood,Production Quantity,743,1000 m3,I
+1990,France,Plywood,Production Quantity,518,1000 m3,I
+1990,Greece,Plywood,Production Quantity,98,1000 m3,I
+1990,Italy,Plywood,Production Quantity,445,1000 m3,I
+1990,Japan,Plywood,Production Quantity,6415,1000 m3,I
+1990,Mexico,Plywood,Production Quantity,157,1000 m3,I
+1990,Netherlands,Plywood,Production Quantity,15,1000 m3,I
+1990,New Zealand,Plywood,Production Quantity,68,1000 m3,I
+1990,Norway,Plywood,Production Quantity,7,1000 m3,I
+1990,Portugal,Plywood,Production Quantity,22.52,1000 m3,I
+1990,Spain,Plywood,Production Quantity,141,1000 m3,I
+1990,Sweden,Plywood,Production Quantity,68,1000 m3,I
+1990,United Kingdom,Plywood,Production Quantity,3,1000 m3,I
+1990,United States,Plywood,Production Quantity,18771,1000 m3,I
+1991,Australia,Plywood,Production Quantity,101,1000 m3,I
+1991,Austria,Plywood,Production Quantity,214,1000 m3,I
+1991,Belgium,Plywood,Production Quantity,67,1000 m3,I
+1991,Canada,Plywood,Production Quantity,1927,1000 m3,I
+1991,Denmark,Plywood,Production Quantity,13.92,1000 m3,I
+1991,Finland,Plywood,Production Quantity,536,1000 m3,I
+1991,France,Plywood,Production Quantity,470,1000 m3,I
+1991,Germany,Plywood,Production Quantity,424,1000 m3,I
+1991,Greece,Plywood,Production Quantity,86,1000 m3,I
+1991,Italy,Plywood,Production Quantity,450,1000 m3,I
+1991,Japan,Plywood,Production Quantity,6174,1000 m3,I
+1991,Mexico,Plywood,Production Quantity,184,1000 m3,I
+1991,Netherlands,Plywood,Production Quantity,15,1000 m3,I
+1991,New Zealand,Plywood,Production Quantity,54,1000 m3,I
+1991,Norway,Plywood,Production Quantity,8,1000 m3,I
+1991,Portugal,Plywood,Production Quantity,22.7,1000 m3,I
+1991,Spain,Plywood,Production Quantity,140,1000 m3,I
+1991,Sweden,Plywood,Production Quantity,67,1000 m3,I
+1991,United Kingdom,Plywood,Production Quantity,3,1000 m3,I
+1991,United States,Plywood,Production Quantity,16508,1000 m3,I
+1990,Australia,Plywood (C),Production Quantity,110,1000 m3,I
+1990,Austria,Plywood (C),Production Quantity,122,1000 m3,I
+1990,Belgium,Plywood (C),Production Quantity,22,1000 m3,I
+1990,Canada,Plywood (C),Production Quantity,1917,1000 m3,I
+1990,Denmark,Plywood (C),Production Quantity,8.4,1000 m3,I
+1990,Finland,Plywood (C),Production Quantity,250,1000 m3,I
+1990,France,Plywood (C),Production Quantity,119,1000 m3,I
+1990,Greece,Plywood (C),Production Quantity,49,1000 m3,I
+1990,Italy,Plywood (C),Production Quantity,120,1000 m3,I
+1990,Japan,Plywood (C),Production Quantity,898,1000 m3,I
+1990,Mexico,Plywood (C),Production Quantity,146,1000 m3,I
+1990,Netherlands,Plywood (C),Production Quantity,0,1000 m3,
+1990,New Zealand,Plywood (C),Production Quantity,68,1000 m3,I
+1990,Norway,Plywood (C),Production Quantity,6.3,1000 m3,I
+1990,Portugal,Plywood (C),Production Quantity,2.52,1000 m3,I
+1990,Spain,Plywood (C),Production Quantity,37,1000 m3,I
+1990,Sweden,Plywood (C),Production Quantity,68,1000 m3,I
+1990,United Kingdom,Plywood (C),Production Quantity,0,1000 m3,I
+1990,United States,Plywood (C),Production Quantity,16893,1000 m3,I
+1991,Australia,Plywood (C),Production Quantity,89,1000 m3,I
+1991,Austria,Plywood (C),Production Quantity,168,1000 m3,I
+1991,Belgium,Plywood (C),Production Quantity,22,1000 m3,I
+1991,Canada,Plywood (C),Production Quantity,1658,1000 m3,I
+1991,Denmark,Plywood (C),Production Quantity,3.92,1000 m3,I
+1991,Finland,Plywood (C),Production Quantity,186,1000 m3,I
+1991,France,Plywood (C),Production Quantity,108,1000 m3,I
+1991,Germany,Plywood (C),Production Quantity,424,1000 m3,I
+1991,Greece,Plywood (C),Production Quantity,43,1000 m3,I
+1991,Italy,Plywood (C),Production Quantity,121,1000 m3,I
+1991,Japan,Plywood (C),Production Quantity,864,1000 m3,I
+1991,Mexico,Plywood (C),Production Quantity,171,1000 m3,I
+1991,Netherlands,Plywood (C),Production Quantity,0,1000 m3,
+1991,New Zealand,Plywood (C),Production Quantity,54,1000 m3,I
+1991,Norway,Plywood (C),Production Quantity,7.2,1000 m3,I
+1991,Portugal,Plywood (C),Production Quantity,2.7,1000 m3,I
+1991,Spain,Plywood (C),Production Quantity,37,1000 m3,I
+1991,Sweden,Plywood (C),Production Quantity,67,1000 m3,I
+1991,United Kingdom,Plywood (C),Production Quantity,0,1000 m3,I
+1991,United States,Plywood (C),Production Quantity,14857,1000 m3,I
+1990,Australia,Plywood (NC),Production Quantity,15,1000 m3,I
+1990,Austria,Plywood (NC),Production Quantity,39.6,1000 m3,I
+1990,Belgium,Plywood (NC),Production Quantity,43,1000 m3,I
+1990,Canada,Plywood (NC),Production Quantity,311,1000 m3,I
+1990,Denmark,Plywood (NC),Production Quantity,22,1000 m3,I
+1990,Finland,Plywood (NC),Production Quantity,493,1000 m3,I
+1990,France,Plywood (NC),Production Quantity,399,1000 m3,I
+1990,Greece,Plywood (NC),Production Quantity,49,1000 m3,I
+1990,Italy,Plywood (NC),Production Quantity,325,1000 m3,I
+1990,Japan,Plywood (NC),Production Quantity,5517,1000 m3,I
+1990,Mexico,Plywood (NC),Production Quantity,11,1000 m3,I
+1990,Netherlands,Plywood (NC),Production Quantity,15,1000 m3,I
+1990,New Zealand,Plywood (NC),Production Quantity,0,1000 m3,I
+1990,Norway,Plywood (NC),Production Quantity,0.7,1000 m3,
+1990,Portugal,Plywood (NC),Production Quantity,20,1000 m3,I
+1990,Spain,Plywood (NC),Production Quantity,104,1000 m3,I
+1990,Sweden,Plywood (NC),Production Quantity,0,1000 m3,I
+1990,United Kingdom,Plywood (NC),Production Quantity,3,1000 m3,I
+1990,United States,Plywood (NC),Production Quantity,1878,1000 m3,I
+1991,Australia,Plywood (NC),Production Quantity,12,1000 m3,I
+1991,Austria,Plywood (NC),Production Quantity,46,1000 m3,I
+1991,Belgium,Plywood (NC),Production Quantity,45,1000 m3,I
+1991,Canada,Plywood (NC),Production Quantity,269,1000 m3,I
+1991,Denmark,Plywood (NC),Production Quantity,10,1000 m3,I
+1991,Finland,Plywood (NC),Production Quantity,350,1000 m3,I
+1991,France,Plywood (NC),Production Quantity,362,1000 m3,I
+1991,Germany,Plywood (NC),Production Quantity,0,1000 m3,I
+1991,Greece,Plywood (NC),Production Quantity,43,1000 m3,I
+1991,Italy,Plywood (NC),Production Quantity,329,1000 m3,I
+1991,Japan,Plywood (NC),Production Quantity,5310,1000 m3,I
+1991,Mexico,Plywood (NC),Production Quantity,13,1000 m3,I
+1991,Netherlands,Plywood (NC),Production Quantity,15,1000 m3,I
+1991,New Zealand,Plywood (NC),Production Quantity,0,1000 m3,I
+1991,Norway,Plywood (NC),Production Quantity,0.8,1000 m3,
+1991,Portugal,Plywood (NC),Production Quantity,20,1000 m3,I
+1991,Spain,Plywood (NC),Production Quantity,103,1000 m3,I
+1991,Sweden,Plywood (NC),Production Quantity,0,1000 m3,I
+1991,United Kingdom,Plywood (NC),Production Quantity,3,1000 m3,I
+1991,United States,Plywood (NC),Production Quantity,1651,1000 m3,I
+1990,Australia,Plywood (NC.T.),Production Quantity,3.75,1000 m3,I
+1990,Austria,Plywood (NC.T.),Production Quantity,0,1000 m3,
+1990,Belgium,Plywood (NC.T.),Production Quantity,10,1000 m3,I
+1990,Canada,Plywood (NC.T.),Production Quantity,0,1000 m3,I
+1990,Denmark,Plywood (NC.T.),Production Quantity,0,1000 m3,I
+1990,Finland,Plywood (NC.T.),Production Quantity,0,1000 m3,I
+1990,France,Plywood (NC.T.),Production Quantity,335,1000 m3,I
+1990,Greece,Plywood (NC.T.),Production Quantity,44,1000 m3,I
+1990,Italy,Plywood (NC.T.),Production Quantity,25,1000 m3,I
+1990,Japan,Plywood (NC.T.),Production Quantity,4523,1000 m3,I
+1990,Mexico,Plywood (NC.T.),Production Quantity,11,1000 m3,I
+1990,Netherlands,Plywood (NC.T.),Production Quantity,10,1000 m3,I
+1990,New Zealand,Plywood (NC.T.),Production Quantity,0,1000 m3,I
+1990,Norway,Plywood (NC.T.),Production Quantity,0,1000 m3,I
+1990,Portugal,Plywood (NC.T.),Production Quantity,20,1000 m3,I
+1990,Spain,Plywood (NC.T.),Production Quantity,28,1000 m3,I
+1990,Sweden,Plywood (NC.T.),Production Quantity,0,1000 m3,I
+1990,United Kingdom,Plywood (NC.T.),Production Quantity,0,1000 m3,I
+1990,United States,Plywood (NC.T.),Production Quantity,0,1000 m3,
+1991,Australia,Plywood (NC.T.),Production Quantity,3,1000 m3,I
+1991,Austria,Plywood (NC.T.),Production Quantity,0,1000 m3,
+1991,Belgium,Plywood (NC.T.),Production Quantity,10,1000 m3,I
+1991,Canada,Plywood (NC.T.),Production Quantity,0,1000 m3,I
+1991,Denmark,Plywood (NC.T.),Production Quantity,0,1000 m3,I
+1991,Finland,Plywood (NC.T.),Production Quantity,0,1000 m3,I
+1991,France,Plywood (NC.T.),Production Quantity,304,1000 m3,I
+1991,Germany,Plywood (NC.T.),Production Quantity,0,1000 m3,I
+1991,Greece,Plywood (NC.T.),Production Quantity,38,1000 m3,I
+1991,Italy,Plywood (NC.T.),Production Quantity,26,1000 m3,I
+1991,Japan,Plywood (NC.T.),Production Quantity,4354,1000 m3,I
+1991,Mexico,Plywood (NC.T.),Production Quantity,13,1000 m3,I
+1991,Netherlands,Plywood (NC.T.),Production Quantity,10,1000 m3,I
+1991,New Zealand,Plywood (NC.T.),Production Quantity,0,1000 m3,I
+1991,Norway,Plywood (NC.T.),Production Quantity,0,1000 m3,I
+1991,Portugal,Plywood (NC.T.),Production Quantity,20,1000 m3,I
+1991,Spain,Plywood (NC.T.),Production Quantity,28,1000 m3,I
+1991,Sweden,Plywood (NC.T.),Production Quantity,0,1000 m3,I
+1991,United Kingdom,Plywood (NC.T.),Production Quantity,0,1000 m3,I
+1991,United States,Plywood (NC.T.),Production Quantity,0,1000 m3,
+1990,Australia,Ind. roundwood,Imports Quantity,3.27,1000 m3,I
+1990,Austria,Ind. roundwood,Imports Quantity,4231.62,1000 m3,I
+1990,Belgium,Ind. roundwood,Imports Quantity,2151.33,1000 m3,F
+1990,Canada,Ind. roundwood,Imports Quantity,4355.04,1000 m3,I
+1990,Denmark,Ind. roundwood,Imports Quantity,274.37,1000 m3,C
+1990,Finland,Ind. roundwood,Imports Quantity,5703.16,1000 m3,C
+1990,France,Ind. roundwood,Imports Quantity,1345.66,1000 m3,I
+1990,Greece,Ind. roundwood,Imports Quantity,275.9,1000 m3,C
+1990,Italy,Ind. roundwood,Imports Quantity,5909.24,1000 m3,F
+1990,Japan,Ind. roundwood,Imports Quantity,29000.66,1000 m3,I
+1990,Mexico,Ind. roundwood,Imports Quantity,12.69,1000 m3,C
+1990,Netherlands,Ind. roundwood,Imports Quantity,660.09,1000 m3,I
+1990,New Zealand,Ind. roundwood,Imports Quantity,3.26,1000 m3,C
+1990,Norway,Ind. roundwood,Imports Quantity,1020.93,1000 m3,F
+1990,Portugal,Ind. roundwood,Imports Quantity,831.56,1000 m3,C
+1990,Spain,Ind. roundwood,Imports Quantity,2603.47,1000 m3,C
+1990,Sweden,Ind. roundwood,Imports Quantity,3645.2,1000 m3,E
+1990,United Kingdom,Ind. roundwood,Imports Quantity,272.15,1000 m3,I
+1990,United States,Ind. roundwood,Imports Quantity,246.34,1000 m3,F
+1991,Australia,Ind. roundwood,Imports Quantity,2.22,1000 m3,I
+1991,Austria,Ind. roundwood,Imports Quantity,4508.14,1000 m3,I
+1991,Belgium,Ind. roundwood,Imports Quantity,2496.96,1000 m3,F
+1991,Canada,Ind. roundwood,Imports Quantity,4292.47,1000 m3,I
+1991,Denmark,Ind. roundwood,Imports Quantity,299.98,1000 m3,C
+1991,Finland,Ind. roundwood,Imports Quantity,5023.34,1000 m3,C
+1991,France,Ind. roundwood,Imports Quantity,1596.37,1000 m3,I
+1991,Germany,Ind. roundwood,Imports Quantity,1551.71,1000 m3,C
+1991,Greece,Ind. roundwood,Imports Quantity,322.69,1000 m3,E
+1991,Italy,Ind. roundwood,Imports Quantity,6351.37,1000 m3,F
+1991,Japan,Ind. roundwood,Imports Quantity,26627.47,1000 m3,I
+1991,Mexico,Ind. roundwood,Imports Quantity,12.89,1000 m3,C
+1991,Netherlands,Ind. roundwood,Imports Quantity,664.9,1000 m3,E
+1991,New Zealand,Ind. roundwood,Imports Quantity,1.8,1000 m3,C
+1991,Norway,Ind. roundwood,Imports Quantity,1074.96,1000 m3,F
+1991,Portugal,Ind. roundwood,Imports Quantity,620.8,1000 m3,C
+1991,Spain,Ind. roundwood,Imports Quantity,2288,1000 m3,C
+1991,Sweden,Ind. roundwood,Imports Quantity,3998.99,1000 m3,E
+1991,United Kingdom,Ind. roundwood,Imports Quantity,240.85,1000 m3,I
+1991,United States,Ind. roundwood,Imports Quantity,210.96,1000 m3,I
+1990,Australia,Ind. roundwood (C),Imports Quantity,2.17,1000 m3,CBI
+1990,Austria,Ind. roundwood (C),Imports Quantity,3086.69,1000 m3,F
+1990,Belgium,Ind. roundwood (C),Imports Quantity,405.86,1000 m3,F
+1990,Canada,Ind. roundwood (C),Imports Quantity,3702.5,1000 m3,E
+1990,Denmark,Ind. roundwood (C),Imports Quantity,128.46,1000 m3,C
+1990,Finland,Ind. roundwood (C),Imports Quantity,2141.03,1000 m3,C
+1990,France,Ind. roundwood (C),Imports Quantity,285.51,1000 m3,I
+1990,Greece,Ind. roundwood (C),Imports Quantity,78.1,1000 m3,C
+1990,Italy,Ind. roundwood (C),Imports Quantity,2474.28,1000 m3,F
+1990,Japan,Ind. roundwood (C),Imports Quantity,16687.22,1000 m3,C
+1990,Mexico,Ind. roundwood (C),Imports Quantity,0.79,1000 m3,C
+1990,Netherlands,Ind. roundwood (C),Imports Quantity,315.53,1000 m3,E
+1990,New Zealand,Ind. roundwood (C),Imports Quantity,0.33,1000 m3,CR
+1990,Norway,Ind. roundwood (C),Imports Quantity,789.76,1000 m3,F
+1990,Portugal,Ind. roundwood (C),Imports Quantity,7.65,1000 m3,C
+1990,Spain,Ind. roundwood (C),Imports Quantity,558.41,1000 m3,C
+1990,Sweden,Ind. roundwood (C),Imports Quantity,2809.46,1000 m3,E
+1990,United Kingdom,Ind. roundwood (C),Imports Quantity,95.96,1000 m3,E
+1990,United States,Ind. roundwood (C),Imports Quantity,161.24,1000 m3,F
+1991,Australia,Ind. roundwood (C),Imports Quantity,2.13,1000 m3,CBI
+1991,Austria,Ind. roundwood (C),Imports Quantity,3258.95,1000 m3,CB
+1991,Belgium,Ind. roundwood (C),Imports Quantity,662.71,1000 m3,F
+1991,Canada,Ind. roundwood (C),Imports Quantity,3580.59,1000 m3,I
+1991,Denmark,Ind. roundwood (C),Imports Quantity,107.23,1000 m3,C
+1991,Finland,Ind. roundwood (C),Imports Quantity,2055.24,1000 m3,C
+1991,France,Ind. roundwood (C),Imports Quantity,590.39,1000 m3,CBI
+1991,Germany,Ind. roundwood (C),Imports Quantity,719.55,1000 m3,C
+1991,Greece,Ind. roundwood (C),Imports Quantity,86.41,1000 m3,E
+1991,Italy,Ind. roundwood (C),Imports Quantity,2909.65,1000 m3,F
+1991,Japan,Ind. roundwood (C),Imports Quantity,15273.44,1000 m3,I
+1991,Mexico,Ind. roundwood (C),Imports Quantity,3.96,1000 m3,C
+1991,Netherlands,Ind. roundwood (C),Imports Quantity,303.48,1000 m3,E
+1991,New Zealand,Ind. roundwood (C),Imports Quantity,0.04,1000 m3,CR
+1991,Norway,Ind. roundwood (C),Imports Quantity,812.59,1000 m3,F
+1991,Portugal,Ind. roundwood (C),Imports Quantity,0.08,1000 m3,CR
+1991,Spain,Ind. roundwood (C),Imports Quantity,714.41,1000 m3,C
+1991,Sweden,Ind. roundwood (C),Imports Quantity,3142.77,1000 m3,E
+1991,United Kingdom,Ind. roundwood (C),Imports Quantity,101.93,1000 m3,E
+1991,United States,Ind. roundwood (C),Imports Quantity,174.46,1000 m3,F
+1990,Australia,Ind. roundwood (NC),Imports Quantity,1.09,1000 m3,F
+1990,Austria,Ind. roundwood (NC),Imports Quantity,1144.93,1000 m3,E
+1990,Belgium,Ind. roundwood (NC),Imports Quantity,1745.46,1000 m3,F
+1990,Canada,Ind. roundwood (NC),Imports Quantity,652.54,1000 m3,C
+1990,Denmark,Ind. roundwood (NC),Imports Quantity,145.91,1000 m3,C
+1990,Finland,Ind. roundwood (NC),Imports Quantity,3562.12,1000 m3,C
+1990,France,Ind. roundwood (NC),Imports Quantity,1060.15,1000 m3,I
+1990,Greece,Ind. roundwood (NC),Imports Quantity,197.8,1000 m3,C
+1990,Italy,Ind. roundwood (NC),Imports Quantity,3434.96,1000 m3,F
+1990,Japan,Ind. roundwood (NC),Imports Quantity,12313.44,1000 m3,CI
+1990,Mexico,Ind. roundwood (NC),Imports Quantity,11.89,1000 m3,C
+1990,Netherlands,Ind. roundwood (NC),Imports Quantity,344.56,1000 m3,I
+1990,New Zealand,Ind. roundwood (NC),Imports Quantity,2.93,1000 m3,C
+1990,Norway,Ind. roundwood (NC),Imports Quantity,231.17,1000 m3,F
+1990,Portugal,Ind. roundwood (NC),Imports Quantity,823.9,1000 m3,C
+1990,Spain,Ind. roundwood (NC),Imports Quantity,2045.05,1000 m3,C
+1990,Sweden,Ind. roundwood (NC),Imports Quantity,835.74,1000 m3,E
+1990,United Kingdom,Ind. roundwood (NC),Imports Quantity,176.19,1000 m3,F
+1990,United States,Ind. roundwood (NC),Imports Quantity,85.1,1000 m3,F
+1991,Australia,Ind. roundwood (NC),Imports Quantity,0.09,1000 m3,CRI
+1991,Austria,Ind. roundwood (NC),Imports Quantity,1249.19,1000 m3,E
+1991,Belgium,Ind. roundwood (NC),Imports Quantity,1834.25,1000 m3,F
+1991,Canada,Ind. roundwood (NC),Imports Quantity,711.88,1000 m3,C
+1991,Denmark,Ind. roundwood (NC),Imports Quantity,192.75,1000 m3,C
+1991,Finland,Ind. roundwood (NC),Imports Quantity,2968.09,1000 m3,C
+1991,France,Ind. roundwood (NC),Imports Quantity,1005.97,1000 m3,I
+1991,Germany,Ind. roundwood (NC),Imports Quantity,832.15,1000 m3,C
+1991,Greece,Ind. roundwood (NC),Imports Quantity,236.28,1000 m3,E
+1991,Italy,Ind. roundwood (NC),Imports Quantity,3441.71,1000 m3,F
+1991,Japan,Ind. roundwood (NC),Imports Quantity,11354.03,1000 m3,CI
+1991,Mexico,Ind. roundwood (NC),Imports Quantity,8.93,1000 m3,C
+1991,Netherlands,Ind. roundwood (NC),Imports Quantity,361.42,1000 m3,E
+1991,New Zealand,Ind. roundwood (NC),Imports Quantity,1.75,1000 m3,C
+1991,Norway,Ind. roundwood (NC),Imports Quantity,262.37,1000 m3,F
+1991,Portugal,Ind. roundwood (NC),Imports Quantity,620.72,1000 m3,C
+1991,Spain,Ind. roundwood (NC),Imports Quantity,1573.59,1000 m3,C
+1991,Sweden,Ind. roundwood (NC),Imports Quantity,856.22,1000 m3,E
+1991,United Kingdom,Ind. roundwood (NC),Imports Quantity,138.92,1000 m3,F
+1991,United States,Ind. roundwood (NC),Imports Quantity,36.5,1000 m3,C
+1990,Australia,Ind. roundwood (NC.T.),Imports Quantity,0.27,1000 m3,CR
+1990,Austria,Ind. roundwood (NC.T.),Imports Quantity,5.22,1000 m3,E
+1990,Belgium,Ind. roundwood (NC.T.),Imports Quantity,1.5,1000 m3,CB
+1990,Canada,Ind. roundwood (NC.T.),Imports Quantity,1.77,1000 m3,C
+1990,Denmark,Ind. roundwood (NC.T.),Imports Quantity,3.49,1000 m3,C
+1990,Finland,Ind. roundwood (NC.T.),Imports Quantity,0.03,1000 m3,CR
+1990,France,Ind. roundwood (NC.T.),Imports Quantity,1008,1000 m3,I
+1990,Greece,Ind. roundwood (NC.T.),Imports Quantity,155.33,1000 m3,C
+1990,Italy,Ind. roundwood (NC.T.),Imports Quantity,724.35,1000 m3,E
+1990,Japan,Ind. roundwood (NC.T.),Imports Quantity,11212.13,1000 m3,C
+1990,Mexico,Ind. roundwood (NC.T.),Imports Quantity,8.3,1000 m3,C
+1990,Netherlands,Ind. roundwood (NC.T.),Imports Quantity,127.37,1000 m3,X
+1990,New Zealand,Ind. roundwood (NC.T.),Imports Quantity,1.02,1000 m3,C
+1990,Norway,Ind. roundwood (NC.T.),Imports Quantity,0.01,1000 m3,CBR
+1990,Portugal,Ind. roundwood (NC.T.),Imports Quantity,560.99,1000 m3,C
+1990,Spain,Ind. roundwood (NC.T.),Imports Quantity,543.02,1000 m3,C
+1990,Sweden,Ind. roundwood (NC.T.),Imports Quantity,0.88,1000 m3,CB
+1990,United Kingdom,Ind. roundwood (NC.T.),Imports Quantity,44.76,1000 m3,E
+1990,United States,Ind. roundwood (NC.T.),Imports Quantity,1.05,1000 m3,CB
+1991,Australia,Ind. roundwood (NC.T.),Imports Quantity,0.01,1000 m3,CR
+1991,Austria,Ind. roundwood (NC.T.),Imports Quantity,4.32,1000 m3,E
+1991,Belgium,Ind. roundwood (NC.T.),Imports Quantity,47.26,1000 m3,E
+1991,Canada,Ind. roundwood (NC.T.),Imports Quantity,1.45,1000 m3,C
+1991,Denmark,Ind. roundwood (NC.T.),Imports Quantity,2.8,1000 m3,C
+1991,Finland,Ind. roundwood (NC.T.),Imports Quantity,0.02,1000 m3,CBR
+1991,France,Ind. roundwood (NC.T.),Imports Quantity,819.8,1000 m3,I
+1991,Germany,Ind. roundwood (NC.T.),Imports Quantity,314.11,1000 m3,C
+1991,Greece,Ind. roundwood (NC.T.),Imports Quantity,154.79,1000 m3,E
+1991,Italy,Ind. roundwood (NC.T.),Imports Quantity,568.28,1000 m3,E
+1991,Japan,Ind. roundwood (NC.T.),Imports Quantity,10221.06,1000 m3,C
+1991,Mexico,Ind. roundwood (NC.T.),Imports Quantity,7.01,1000 m3,C
+1991,Netherlands,Ind. roundwood (NC.T.),Imports Quantity,127.37,1000 m3,E
+1991,New Zealand,Ind. roundwood (NC.T.),Imports Quantity,0.62,1000 m3,C
+1991,Norway,Ind. roundwood (NC.T.),Imports Quantity,0.003082,1000 m3,CBR
+1991,Portugal,Ind. roundwood (NC.T.),Imports Quantity,492.94,1000 m3,C
+1991,Spain,Ind. roundwood (NC.T.),Imports Quantity,331.66,1000 m3,C
+1991,Sweden,Ind. roundwood (NC.T.),Imports Quantity,0.39,1000 m3,CBR
+1991,United Kingdom,Ind. roundwood (NC.T.),Imports Quantity,28.92,1000 m3,E
+1991,United States,Ind. roundwood (NC.T.),Imports Quantity,10.1,1000 m3,C
+1990,Australia,Sawnwood,Imports Quantity,1233.43,1000 m3,C
+1990,Austria,Sawnwood,Imports Quantity,685,1000 m3,I
+1990,Belgium,Sawnwood,Imports Quantity,1668,1000 m3,I
+1990,Canada,Sawnwood,Imports Quantity,1257.29,1000 m3,I
+1990,Denmark,Sawnwood,Imports Quantity,1430.53,1000 m3,C
+1990,Finland,Sawnwood,Imports Quantity,53.03,1000 m3,I
+1990,France,Sawnwood,Imports Quantity,2393.28,1000 m3,I
+1990,Greece,Sawnwood,Imports Quantity,588.81,1000 m3,I
+1990,Italy,Sawnwood,Imports Quantity,5999,1000 m3,F
+1990,Japan,Sawnwood,Imports Quantity,8891.14,1000 m3,I
+1990,Mexico,Sawnwood,Imports Quantity,432.54,1000 m3,I
+1990,Netherlands,Sawnwood,Imports Quantity,3153.12,1000 m3,I
+1990,New Zealand,Sawnwood,Imports Quantity,42.14,1000 m3,I
+1990,Norway,Sawnwood,Imports Quantity,437.5,1000 m3,F
+1990,Portugal,Sawnwood,Imports Quantity,91.24,1000 m3,I
+1990,Spain,Sawnwood,Imports Quantity,1833.03,1000 m3,C
+1990,Sweden,Sawnwood,Imports Quantity,250.69,1000 m3,I
+1990,United Kingdom,Sawnwood,Imports Quantity,7444.18,1000 m3,I
+1990,United States,Sawnwood,Imports Quantity,22301.98,1000 m3,I
+1991,Australia,Sawnwood,Imports Quantity,1169.93,1000 m3,C
+1991,Austria,Sawnwood,Imports Quantity,725,1000 m3,I
+1991,Belgium,Sawnwood,Imports Quantity,1670,1000 m3,I
+1991,Canada,Sawnwood,Imports Quantity,1092.08,1000 m3,I
+1991,Denmark,Sawnwood,Imports Quantity,1363.02,1000 m3,C
+1991,Finland,Sawnwood,Imports Quantity,58.42,1000 m3,I
+1991,France,Sawnwood,Imports Quantity,2327.2,1000 m3,I
+1991,Germany,Sawnwood,Imports Quantity,4746.51,1000 m3,C
+1991,Greece,Sawnwood,Imports Quantity,550.2,1000 m3,I
+1991,Italy,Sawnwood,Imports Quantity,6054,1000 m3,F
+1991,Japan,Sawnwood,Imports Quantity,9115.67,1000 m3,I
+1991,Mexico,Sawnwood,Imports Quantity,612.55,1000 m3,I
+1991,Netherlands,Sawnwood,Imports Quantity,3066.32,1000 m3,I
+1991,New Zealand,Sawnwood,Imports Quantity,30.16,1000 m3,I
+1991,Norway,Sawnwood,Imports Quantity,422.4,1000 m3,F
+1991,Portugal,Sawnwood,Imports Quantity,109.4,1000 m3,I
+1991,Spain,Sawnwood,Imports Quantity,1727.7,1000 m3,C
+1991,Sweden,Sawnwood,Imports Quantity,184,1000 m3,I
+1991,United Kingdom,Sawnwood,Imports Quantity,7071.53,1000 m3,I
+1991,United States,Sawnwood,Imports Quantity,20070.39,1000 m3,I
+1990,Australia,Sawnwood (C),Imports Quantity,1011.1,1000 m3,C
+1990,Austria,Sawnwood (C),Imports Quantity,557,1000 m3,E
+1990,Belgium,Sawnwood (C),Imports Quantity,1130,1000 m3,E
+1990,Canada,Sawnwood (C),Imports Quantity,718.85,1000 m3,E
+1990,Denmark,Sawnwood (C),Imports Quantity,1360.51,1000 m3,C
+1990,Finland,Sawnwood (C),Imports Quantity,14.5,1000 m3,E
+1990,France,Sawnwood (C),Imports Quantity,1742,1000 m3,E
+1990,Greece,Sawnwood (C),Imports Quantity,522.6,1000 m3,E
+1990,Italy,Sawnwood (C),Imports Quantity,4426,1000 m3,F
+1990,Japan,Sawnwood (C),Imports Quantity,7311.28,1000 m3,CI
+1990,Mexico,Sawnwood (C),Imports Quantity,389.1,1000 m3,F
+1990,Netherlands,Sawnwood (C),Imports Quantity,2514.8,1000 m3,E
+1990,New Zealand,Sawnwood (C),Imports Quantity,25.3,1000 m3,F
+1990,Norway,Sawnwood (C),Imports Quantity,400.8,1000 m3,F
+1990,Portugal,Sawnwood (C),Imports Quantity,10,1000 m3,E
+1990,Spain,Sawnwood (C),Imports Quantity,989.3,1000 m3,C
+1990,Sweden,Sawnwood (C),Imports Quantity,146.69,1000 m3,E
+1990,United Kingdom,Sawnwood (C),Imports Quantity,7030,1000 m3,I
+1990,United States,Sawnwood (C),Imports Quantity,21886.32,1000 m3,F
+1991,Australia,Sawnwood (C),Imports Quantity,1021.4,1000 m3,C
+1991,Austria,Sawnwood (C),Imports Quantity,576,1000 m3,E
+1991,Belgium,Sawnwood (C),Imports Quantity,1195,1000 m3,E
+1991,Canada,Sawnwood (C),Imports Quantity,634.58,1000 m3,E
+1991,Denmark,Sawnwood (C),Imports Quantity,1316.1,1000 m3,C
+1991,Finland,Sawnwood (C),Imports Quantity,26.3,1000 m3,E
+1991,France,Sawnwood (C),Imports Quantity,1757,1000 m3,E
+1991,Germany,Sawnwood (C),Imports Quantity,3935.75,1000 m3,C
+1991,Greece,Sawnwood (C),Imports Quantity,480,1000 m3,E
+1991,Italy,Sawnwood (C),Imports Quantity,4441,1000 m3,F
+1991,Japan,Sawnwood (C),Imports Quantity,7699.46,1000 m3,CI
+1991,Mexico,Sawnwood (C),Imports Quantity,548.9,1000 m3,F
+1991,Netherlands,Sawnwood (C),Imports Quantity,2412,1000 m3,E
+1991,New Zealand,Sawnwood (C),Imports Quantity,20.2,1000 m3,F
+1991,Norway,Sawnwood (C),Imports Quantity,390.8,1000 m3,F
+1991,Portugal,Sawnwood (C),Imports Quantity,9,1000 m3,E
+1991,Spain,Sawnwood (C),Imports Quantity,993.38,1000 m3,C
+1991,Sweden,Sawnwood (C),Imports Quantity,114,1000 m3,E
+1991,United Kingdom,Sawnwood (C),Imports Quantity,6604.1,1000 m3,E
+1991,United States,Sawnwood (C),Imports Quantity,19574.44,1000 m3,F
+1990,Australia,Sawnwood (NC),Imports Quantity,222.32,1000 m3,C
+1990,Austria,Sawnwood (NC),Imports Quantity,128,1000 m3,F
+1990,Belgium,Sawnwood (NC),Imports Quantity,538,1000 m3,F
+1990,Canada,Sawnwood (NC),Imports Quantity,538.44,1000 m3,C
+1990,Denmark,Sawnwood (NC),Imports Quantity,70.01,1000 m3,C
+1990,Finland,Sawnwood (NC),Imports Quantity,38.53,1000 m3,C
+1990,France,Sawnwood (NC),Imports Quantity,651.28,1000 m3,I
+1990,Greece,Sawnwood (NC),Imports Quantity,66.21,1000 m3,C
+1990,Italy,Sawnwood (NC),Imports Quantity,1573,1000 m3,F
+1990,Japan,Sawnwood (NC),Imports Quantity,1579.86,1000 m3,CI
+1990,Mexico,Sawnwood (NC),Imports Quantity,43.44,1000 m3,C
+1990,Netherlands,Sawnwood (NC),Imports Quantity,638.32,1000 m3,CBI
+1990,New Zealand,Sawnwood (NC),Imports Quantity,16.84,1000 m3,CI
+1990,Norway,Sawnwood (NC),Imports Quantity,36.7,1000 m3,F
+1990,Portugal,Sawnwood (NC),Imports Quantity,81.24,1000 m3,C
+1990,Spain,Sawnwood (NC),Imports Quantity,843.73,1000 m3,C
+1990,Sweden,Sawnwood (NC),Imports Quantity,104,1000 m3,F
+1990,United Kingdom,Sawnwood (NC),Imports Quantity,414.18,1000 m3,CBI
+1990,United States,Sawnwood (NC),Imports Quantity,415.66,1000 m3,CBI
+1991,Australia,Sawnwood (NC),Imports Quantity,148.53,1000 m3,C
+1991,Austria,Sawnwood (NC),Imports Quantity,149,1000 m3,F
+1991,Belgium,Sawnwood (NC),Imports Quantity,475,1000 m3,F
+1991,Canada,Sawnwood (NC),Imports Quantity,457.5,1000 m3,C
+1991,Denmark,Sawnwood (NC),Imports Quantity,46.92,1000 m3,C
+1991,Finland,Sawnwood (NC),Imports Quantity,32.12,1000 m3,C
+1991,France,Sawnwood (NC),Imports Quantity,570.2,1000 m3,I
+1991,Germany,Sawnwood (NC),Imports Quantity,810.75,1000 m3,C
+1991,Greece,Sawnwood (NC),Imports Quantity,70.2,1000 m3,F
+1991,Italy,Sawnwood (NC),Imports Quantity,1613,1000 m3,F
+1991,Japan,Sawnwood (NC),Imports Quantity,1416.21,1000 m3,CI
+1991,Mexico,Sawnwood (NC),Imports Quantity,63.65,1000 m3,C
+1991,Netherlands,Sawnwood (NC),Imports Quantity,654.32,1000 m3,CB
+1991,New Zealand,Sawnwood (NC),Imports Quantity,9.96,1000 m3,CI
+1991,Norway,Sawnwood (NC),Imports Quantity,31.6,1000 m3,F
+1991,Portugal,Sawnwood (NC),Imports Quantity,100.4,1000 m3,C
+1991,Spain,Sawnwood (NC),Imports Quantity,734.31,1000 m3,C
+1991,Sweden,Sawnwood (NC),Imports Quantity,70,1000 m3,F
+1991,United Kingdom,Sawnwood (NC),Imports Quantity,467.43,1000 m3,CBI
+1991,United States,Sawnwood (NC),Imports Quantity,495.95,1000 m3,C
+1990,Australia,Sawnwood (NC.T.),Imports Quantity,209,1000 m3,C
+1990,Austria,Sawnwood (NC.T.),Imports Quantity,5.24,1000 m3,CB
+1990,Belgium,Sawnwood (NC.T.),Imports Quantity,248.28,1000 m3,CB
+1990,Canada,Sawnwood (NC.T.),Imports Quantity,26.58,1000 m3,C
+1990,Denmark,Sawnwood (NC.T.),Imports Quantity,37.48,1000 m3,C
+1990,Finland,Sawnwood (NC.T.),Imports Quantity,9.27,1000 m3,C
+1990,France,Sawnwood (NC.T.),Imports Quantity,494.25,1000 m3,I
+1990,Greece,Sawnwood (NC.T.),Imports Quantity,28.68,1000 m3,C
+1990,Italy,Sawnwood (NC.T.),Imports Quantity,382,1000 m3,CI
+1990,Japan,Sawnwood (NC.T.),Imports Quantity,1335,1000 m3,I
+1990,Mexico,Sawnwood (NC.T.),Imports Quantity,28.4,1000 m3,C
+1990,Netherlands,Sawnwood (NC.T.),Imports Quantity,568.12,1000 m3,CB
+1990,New Zealand,Sawnwood (NC.T.),Imports Quantity,14.92,1000 m3,C
+1990,Norway,Sawnwood (NC.T.),Imports Quantity,2.23,1000 m3,CB
+1990,Portugal,Sawnwood (NC.T.),Imports Quantity,59.04,1000 m3,C
+1990,Spain,Sawnwood (NC.T.),Imports Quantity,366.15,1000 m3,C
+1990,Sweden,Sawnwood (NC.T.),Imports Quantity,5.11,1000 m3,CB
+1990,United Kingdom,Sawnwood (NC.T.),Imports Quantity,295.95,1000 m3,CB
+1990,United States,Sawnwood (NC.T.),Imports Quantity,150.35,1000 m3,CBI
+1991,Australia,Sawnwood (NC.T.),Imports Quantity,139.68,1000 m3,C
+1991,Austria,Sawnwood (NC.T.),Imports Quantity,4.96,1000 m3,CB
+1991,Belgium,Sawnwood (NC.T.),Imports Quantity,256,1000 m3,I
+1991,Canada,Sawnwood (NC.T.),Imports Quantity,16.07,1000 m3,C
+1991,Denmark,Sawnwood (NC.T.),Imports Quantity,20.1,1000 m3,C
+1991,Finland,Sawnwood (NC.T.),Imports Quantity,7.77,1000 m3,C
+1991,France,Sawnwood (NC.T.),Imports Quantity,510,1000 m3,I
+1991,Germany,Sawnwood (NC.T.),Imports Quantity,359.75,1000 m3,C
+1991,Greece,Sawnwood (NC.T.),Imports Quantity,30.7,1000 m3,CI
+1991,Italy,Sawnwood (NC.T.),Imports Quantity,458,1000 m3,CI
+1991,Japan,Sawnwood (NC.T.),Imports Quantity,1320,1000 m3,I
+1991,Mexico,Sawnwood (NC.T.),Imports Quantity,38.57,1000 m3,C
+1991,Netherlands,Sawnwood (NC.T.),Imports Quantity,620,1000 m3,I
+1991,New Zealand,Sawnwood (NC.T.),Imports Quantity,8.63,1000 m3,CI
+1991,Norway,Sawnwood (NC.T.),Imports Quantity,2.67,1000 m3,CB
+1991,Portugal,Sawnwood (NC.T.),Imports Quantity,64.5,1000 m3,C
+1991,Spain,Sawnwood (NC.T.),Imports Quantity,352.03,1000 m3,C
+1991,Sweden,Sawnwood (NC.T.),Imports Quantity,2.85,1000 m3,CB
+1991,United Kingdom,Sawnwood (NC.T.),Imports Quantity,334,1000 m3,I
+1991,United States,Sawnwood (NC.T.),Imports Quantity,233.52,1000 m3,C
+1990,Australia,Veneer,Imports Quantity,6.83,1000 m3,I
+1990,Austria,Veneer,Imports Quantity,6.47,1000 m3,I
+1990,Belgium,Veneer,Imports Quantity,10.08,1000 m3,I
+1990,Canada,Veneer,Imports Quantity,30.23,1000 m3,C
+1990,Denmark,Veneer,Imports Quantity,29.91,1000 m3,I
+1990,Finland,Veneer,Imports Quantity,6.35,1000 m3,I
+1990,France,Veneer,Imports Quantity,61.43,1000 m3,I
+1990,Greece,Veneer,Imports Quantity,4.86,1000 m3,I
+1990,Italy,Veneer,Imports Quantity,62.34,1000 m3,I
+1990,Japan,Veneer,Imports Quantity,239.41,1000 m3,I
+1990,Mexico,Veneer,Imports Quantity,5.25,1000 m3,I
+1990,Netherlands,Veneer,Imports Quantity,19.9,1000 m3,I
+1990,New Zealand,Veneer,Imports Quantity,1.04,1000 m3,I
+1990,Norway,Veneer,Imports Quantity,5.16,1000 m3,I
+1990,Portugal,Veneer,Imports Quantity,3.3,1000 m3,I
+1990,Spain,Veneer,Imports Quantity,13.78,1000 m3,I
+1990,Sweden,Veneer,Imports Quantity,28.04,1000 m3,I
+1990,United Kingdom,Veneer,Imports Quantity,71.21,1000 m3,I
+1990,United States,Veneer,Imports Quantity,184.27,1000 m3,I
+1991,Australia,Veneer,Imports Quantity,7.06,1000 m3,I
+1991,Austria,Veneer,Imports Quantity,9.32,1000 m3,I
+1991,Belgium,Veneer,Imports Quantity,15.74,1000 m3,I
+1991,Canada,Veneer,Imports Quantity,24.47,1000 m3,C
+1991,Denmark,Veneer,Imports Quantity,27.83,1000 m3,I
+1991,Finland,Veneer,Imports Quantity,4.78,1000 m3,I
+1991,France,Veneer,Imports Quantity,54.18,1000 m3,I
+1991,Germany,Veneer,Imports Quantity,151.77,1000 m3,I
+1991,Greece,Veneer,Imports Quantity,3.28,1000 m3,I
+1991,Italy,Veneer,Imports Quantity,138.53,1000 m3,I
+1991,Japan,Veneer,Imports Quantity,302.1,1000 m3,I
+1991,Mexico,Veneer,Imports Quantity,10.6,1000 m3,I
+1991,Netherlands,Veneer,Imports Quantity,20.5,1000 m3,I
+1991,New Zealand,Veneer,Imports Quantity,0.79,1000 m3,C
+1991,Norway,Veneer,Imports Quantity,6.05,1000 m3,I
+1991,Portugal,Veneer,Imports Quantity,4.01,1000 m3,I
+1991,Spain,Veneer,Imports Quantity,18.01,1000 m3,I
+1991,Sweden,Veneer,Imports Quantity,23.8,1000 m3,I
+1991,United Kingdom,Veneer,Imports Quantity,42.01,1000 m3,I
+1991,United States,Veneer,Imports Quantity,178.03,1000 m3,C
+1990,Australia,Veneer (C),Imports Quantity,1.5,1000 m3,C
+1990,Austria,Veneer (C),Imports Quantity,0.44,1000 m3,CBRI
+1990,Belgium,Veneer (C),Imports Quantity,0.67,1000 m3,CBI
+1990,Canada,Veneer (C),Imports Quantity,6.97,1000 m3,C
+1990,Denmark,Veneer (C),Imports Quantity,4.14,1000 m3,CI
+1990,Finland,Veneer (C),Imports Quantity,0.6,1000 m3,CI
+1990,France,Veneer (C),Imports Quantity,46.3,1000 m3,I
+1990,Greece,Veneer (C),Imports Quantity,0.64,1000 m3,CI
+1990,Italy,Veneer (C),Imports Quantity,2.34,1000 m3,CBI
+1990,Japan,Veneer (C),Imports Quantity,14.34,1000 m3,C
+1990,Mexico,Veneer (C),Imports Quantity,1,1000 m3,CI
+1990,Netherlands,Veneer (C),Imports Quantity,9.62,1000 m3,CBI
+1990,New Zealand,Veneer (C),Imports Quantity,0.16,1000 m3,CRI
+1990,Norway,Veneer (C),Imports Quantity,0.1,1000 m3,CBRI
+1990,Portugal,Veneer (C),Imports Quantity,0.88,1000 m3,CI
+1990,Spain,Veneer (C),Imports Quantity,3.88,1000 m3,CI
+1990,Sweden,Veneer (C),Imports Quantity,14.82,1000 m3,CBI
+1990,United Kingdom,Veneer (C),Imports Quantity,49.98,1000 m3,CBI
+1990,United States,Veneer (C),Imports Quantity,46.66,1000 m3,CBI
+1991,Australia,Veneer (C),Imports Quantity,1.06,1000 m3,C
+1991,Austria,Veneer (C),Imports Quantity,0.64,1000 m3,CBI
+1991,Belgium,Veneer (C),Imports Quantity,0.42,1000 m3,CBRI
+1991,Canada,Veneer (C),Imports Quantity,4.33,1000 m3,C
+1991,Denmark,Veneer (C),Imports Quantity,3.89,1000 m3,CI
+1991,Finland,Veneer (C),Imports Quantity,1.01,1000 m3,CI
+1991,France,Veneer (C),Imports Quantity,46.27,1000 m3,I
+1991,Germany,Veneer (C),Imports Quantity,18.25,1000 m3,CI
+1991,Greece,Veneer (C),Imports Quantity,0.09,1000 m3,CBRI
+1991,Italy,Veneer (C),Imports Quantity,3.53,1000 m3,CBI
+1991,Japan,Veneer (C),Imports Quantity,18.86,1000 m3,C
+1991,Mexico,Veneer (C),Imports Quantity,3.98,1000 m3,CI
+1991,Netherlands,Veneer (C),Imports Quantity,6.82,1000 m3,CBI
+1991,New Zealand,Veneer (C),Imports Quantity,0.06,1000 m3,CR
+1991,Norway,Veneer (C),Imports Quantity,1.03,1000 m3,CBI
+1991,Portugal,Veneer (C),Imports Quantity,0.72,1000 m3,CI
+1991,Spain,Veneer (C),Imports Quantity,4.76,1000 m3,CI
+1991,Sweden,Veneer (C),Imports Quantity,12.78,1000 m3,CBI
+1991,United Kingdom,Veneer (C),Imports Quantity,17.41,1000 m3,CBI
+1991,United States,Veneer (C),Imports Quantity,49.57,1000 m3,C
+1990,Australia,Veneer (NC),Imports Quantity,5.32,1000 m3,CBI
+1990,Austria,Veneer (NC),Imports Quantity,6.02,1000 m3,CBI
+1990,Belgium,Veneer (NC),Imports Quantity,9.4,1000 m3,CBI
+1990,Canada,Veneer (NC),Imports Quantity,23.25,1000 m3,C
+1990,Denmark,Veneer (NC),Imports Quantity,25.76,1000 m3,CI
+1990,Finland,Veneer (NC),Imports Quantity,5.75,1000 m3,CI
+1990,France,Veneer (NC),Imports Quantity,15.12,1000 m3,I
+1990,Greece,Veneer (NC),Imports Quantity,4.21,1000 m3,CI
+1990,Italy,Veneer (NC),Imports Quantity,60,1000 m3,I
+1990,Japan,Veneer (NC),Imports Quantity,225.06,1000 m3,CBI
+1990,Mexico,Veneer (NC),Imports Quantity,4.24,1000 m3,CI
+1990,Netherlands,Veneer (NC),Imports Quantity,10.27,1000 m3,CBI
+1990,New Zealand,Veneer (NC),Imports Quantity,0.87,1000 m3,C
+1990,Norway,Veneer (NC),Imports Quantity,5.06,1000 m3,CBI
+1990,Portugal,Veneer (NC),Imports Quantity,2.41,1000 m3,CI
+1990,Spain,Veneer (NC),Imports Quantity,9.89,1000 m3,CI
+1990,Sweden,Veneer (NC),Imports Quantity,13.22,1000 m3,CBI
+1990,United Kingdom,Veneer (NC),Imports Quantity,21.23,1000 m3,CBI
+1990,United States,Veneer (NC),Imports Quantity,137.6,1000 m3,CBI
+1991,Australia,Veneer (NC),Imports Quantity,5.99,1000 m3,CI
+1991,Austria,Veneer (NC),Imports Quantity,8.68,1000 m3,CBI
+1991,Belgium,Veneer (NC),Imports Quantity,15.31,1000 m3,CBI
+1991,Canada,Veneer (NC),Imports Quantity,20.14,1000 m3,C
+1991,Denmark,Veneer (NC),Imports Quantity,23.94,1000 m3,CI
+1991,Finland,Veneer (NC),Imports Quantity,3.76,1000 m3,CI
+1991,France,Veneer (NC),Imports Quantity,7.91,1000 m3,I
+1991,Germany,Veneer (NC),Imports Quantity,133.52,1000 m3,CI
+1991,Greece,Veneer (NC),Imports Quantity,3.18,1000 m3,CBI
+1991,Italy,Veneer (NC),Imports Quantity,135,1000 m3,I
+1991,Japan,Veneer (NC),Imports Quantity,283.24,1000 m3,CBI
+1991,Mexico,Veneer (NC),Imports Quantity,6.61,1000 m3,CI
+1991,Netherlands,Veneer (NC),Imports Quantity,13.67,1000 m3,CBI
+1991,New Zealand,Veneer (NC),Imports Quantity,0.73,1000 m3,C
+1991,Norway,Veneer (NC),Imports Quantity,5.01,1000 m3,CBI
+1991,Portugal,Veneer (NC),Imports Quantity,3.28,1000 m3,CI
+1991,Spain,Veneer (NC),Imports Quantity,13.24,1000 m3,CI
+1991,Sweden,Veneer (NC),Imports Quantity,11.02,1000 m3,CBI
+1991,United Kingdom,Veneer (NC),Imports Quantity,24.59,1000 m3,CBI
+1991,United States,Veneer (NC),Imports Quantity,128.45,1000 m3,C
+1990,Australia,Veneer (NC.T.),Imports Quantity,4.88,1000 m3,CBI
+1990,Austria,Veneer (NC.T.),Imports Quantity,0.86,1000 m3,CBI
+1990,Belgium,Veneer (NC.T.),Imports Quantity,4.21,1000 m3,CBI
+1990,Canada,Veneer (NC.T.),Imports Quantity,3.19,1000 m3,C
+1990,Denmark,Veneer (NC.T.),Imports Quantity,8.06,1000 m3,CI
+1990,Finland,Veneer (NC.T.),Imports Quantity,1.14,1000 m3,CI
+1990,France,Veneer (NC.T.),Imports Quantity,1.81,1000 m3,I
+1990,Greece,Veneer (NC.T.),Imports Quantity,0.69,1000 m3,CI
+1990,Italy,Veneer (NC.T.),Imports Quantity,17,1000 m3,I
+1990,Japan,Veneer (NC.T.),Imports Quantity,218.21,1000 m3,CBI
+1990,Mexico,Veneer (NC.T.),Imports Quantity,3.24,1000 m3,CI
+1990,Netherlands,Veneer (NC.T.),Imports Quantity,5.15,1000 m3,CBI
+1990,New Zealand,Veneer (NC.T.),Imports Quantity,0.3,1000 m3,CR
+1990,Norway,Veneer (NC.T.),Imports Quantity,0.39,1000 m3,CBRI
+1990,Portugal,Veneer (NC.T.),Imports Quantity,0.91,1000 m3,CI
+1990,Spain,Veneer (NC.T.),Imports Quantity,3.14,1000 m3,CI
+1990,Sweden,Veneer (NC.T.),Imports Quantity,2.08,1000 m3,CBI
+1990,United Kingdom,Veneer (NC.T.),Imports Quantity,6.22,1000 m3,CBI
+1990,United States,Veneer (NC.T.),Imports Quantity,52.37,1000 m3,CBI
+1991,Australia,Veneer (NC.T.),Imports Quantity,4.52,1000 m3,CI
+1991,Austria,Veneer (NC.T.),Imports Quantity,0.74,1000 m3,CBI
+1991,Belgium,Veneer (NC.T.),Imports Quantity,2.22,1000 m3,CBI
+1991,Canada,Veneer (NC.T.),Imports Quantity,2.22,1000 m3,C
+1991,Denmark,Veneer (NC.T.),Imports Quantity,6.53,1000 m3,CI
+1991,Finland,Veneer (NC.T.),Imports Quantity,1.11,1000 m3,CI
+1991,France,Veneer (NC.T.),Imports Quantity,1.98,1000 m3,I
+1991,Germany,Veneer (NC.T.),Imports Quantity,57.01,1000 m3,CI
+1991,Greece,Veneer (NC.T.),Imports Quantity,0.17,1000 m3,CBRI
+1991,Italy,Veneer (NC.T.),Imports Quantity,43,1000 m3,I
+1991,Japan,Veneer (NC.T.),Imports Quantity,271.67,1000 m3,CBI
+1991,Mexico,Veneer (NC.T.),Imports Quantity,5.33,1000 m3,CI
+1991,Netherlands,Veneer (NC.T.),Imports Quantity,6.03,1000 m3,CBI
+1991,New Zealand,Veneer (NC.T.),Imports Quantity,0.21,1000 m3,CR
+1991,Norway,Veneer (NC.T.),Imports Quantity,0.3,1000 m3,CBRI
+1991,Portugal,Veneer (NC.T.),Imports Quantity,1.07,1000 m3,CI
+1991,Spain,Veneer (NC.T.),Imports Quantity,5.55,1000 m3,CI
+1991,Sweden,Veneer (NC.T.),Imports Quantity,1.49,1000 m3,CBI
+1991,United Kingdom,Veneer (NC.T.),Imports Quantity,4.26,1000 m3,CBI
+1991,United States,Veneer (NC.T.),Imports Quantity,44.62,1000 m3,C
+1990,Australia,Plywood,Imports Quantity,69.91,1000 m3,I
+1990,Austria,Plywood,Imports Quantity,72.84,1000 m3,I
+1990,Belgium,Plywood,Imports Quantity,490.43,1000 m3,I
+1990,Canada,Plywood,Imports Quantity,246.59,1000 m3,I
+1990,Denmark,Plywood,Imports Quantity,157.69,1000 m3,I
+1990,Finland,Plywood,Imports Quantity,19.49,1000 m3,I
+1990,France,Plywood,Imports Quantity,208.52,1000 m3,I
+1990,Greece,Plywood,Imports Quantity,13,1000 m3,I
+1990,Italy,Plywood,Imports Quantity,83.03,1000 m3,I
+1990,Japan,Plywood,Imports Quantity,2994.47,1000 m3,I
+1990,Mexico,Plywood,Imports Quantity,219.9,1000 m3,I
+1990,Netherlands,Plywood,Imports Quantity,331.71,1000 m3,I
+1990,New Zealand,Plywood,Imports Quantity,4.76,1000 m3,I
+1990,Norway,Plywood,Imports Quantity,45.86,1000 m3,I
+1990,Portugal,Plywood,Imports Quantity,2.51,1000 m3,I
+1990,Spain,Plywood,Imports Quantity,27.48,1000 m3,I
+1990,Sweden,Plywood,Imports Quantity,96.33,1000 m3,I
+1990,United Kingdom,Plywood,Imports Quantity,854.12,1000 m3,I
+1990,United States,Plywood,Imports Quantity,1306.17,1000 m3,I
+1991,Australia,Plywood,Imports Quantity,67.69,1000 m3,C
+1991,Austria,Plywood,Imports Quantity,82.06,1000 m3,I
+1991,Belgium,Plywood,Imports Quantity,430.12,1000 m3,I
+1991,Canada,Plywood,Imports Quantity,292.22,1000 m3,I
+1991,Denmark,Plywood,Imports Quantity,142.81,1000 m3,I
+1991,Finland,Plywood,Imports Quantity,28.96,1000 m3,I
+1991,France,Plywood,Imports Quantity,196.83,1000 m3,I
+1991,Germany,Plywood,Imports Quantity,770.44,1000 m3,I
+1991,Greece,Plywood,Imports Quantity,8.95,1000 m3,I
+1991,Italy,Plywood,Imports Quantity,118.88,1000 m3,I
+1991,Japan,Plywood,Imports Quantity,3201.84,1000 m3,I
+1991,Mexico,Plywood,Imports Quantity,180.48,1000 m3,I
+1991,Netherlands,Plywood,Imports Quantity,323.33,1000 m3,I
+1991,New Zealand,Plywood,Imports Quantity,3.36,1000 m3,I
+1991,Norway,Plywood,Imports Quantity,29.06,1000 m3,I
+1991,Portugal,Plywood,Imports Quantity,2.87,1000 m3,I
+1991,Spain,Plywood,Imports Quantity,28.88,1000 m3,I
+1991,Sweden,Plywood,Imports Quantity,73.72,1000 m3,I
+1991,United Kingdom,Plywood,Imports Quantity,818.23,1000 m3,I
+1991,United States,Plywood,Imports Quantity,1342.12,1000 m3,C
+1990,Australia,Plywood (C),Imports Quantity,32,1000 m3,C
+1990,Austria,Plywood (C),Imports Quantity,3.79,1000 m3,CBI
+1990,Belgium,Plywood (C),Imports Quantity,200,1000 m3,I
+1990,Canada,Plywood (C),Imports Quantity,125.01,1000 m3,CI
+1990,Denmark,Plywood (C),Imports Quantity,103.91,1000 m3,CI
+1990,Finland,Plywood (C),Imports Quantity,7.12,1000 m3,CI
+1990,France,Plywood (C),Imports Quantity,28.05,1000 m3,I
+1990,Greece,Plywood (C),Imports Quantity,3.42,1000 m3,CI
+1990,Italy,Plywood (C),Imports Quantity,31.48,1000 m3,CBI
+1990,Japan,Plywood (C),Imports Quantity,170.67,1000 m3,CBI
+1990,Mexico,Plywood (C),Imports Quantity,200,1000 m3,I
+1990,Netherlands,Plywood (C),Imports Quantity,120,1000 m3,I
+1990,New Zealand,Plywood (C),Imports Quantity,2.06,1000 m3,CI
+1990,Norway,Plywood (C),Imports Quantity,13.38,1000 m3,CBI
+1990,Portugal,Plywood (C),Imports Quantity,0.7,1000 m3,CI
+1990,Spain,Plywood (C),Imports Quantity,7.46,1000 m3,CI
+1990,Sweden,Plywood (C),Imports Quantity,37.04,1000 m3,CBI
+1990,United Kingdom,Plywood (C),Imports Quantity,400,1000 m3,I
+1990,United States,Plywood (C),Imports Quantity,35.89,1000 m3,CBI
+1991,Australia,Plywood (C),Imports Quantity,26.92,1000 m3,C
+1991,Austria,Plywood (C),Imports Quantity,5.42,1000 m3,CBI
+1991,Belgium,Plywood (C),Imports Quantity,174.39,1000 m3,CBI
+1991,Canada,Plywood (C),Imports Quantity,143.15,1000 m3,CI
+1991,Denmark,Plywood (C),Imports Quantity,84.54,1000 m3,CI
+1991,Finland,Plywood (C),Imports Quantity,8.64,1000 m3,CI
+1991,France,Plywood (C),Imports Quantity,37.07,1000 m3,I
+1991,Germany,Plywood (C),Imports Quantity,275.06,1000 m3,CI
+1991,Greece,Plywood (C),Imports Quantity,0.69,1000 m3,CBI
+1991,Italy,Plywood (C),Imports Quantity,67.38,1000 m3,CBI
+1991,Japan,Plywood (C),Imports Quantity,192.24,1000 m3,CBI
+1991,Mexico,Plywood (C),Imports Quantity,147.72,1000 m3,CI
+1991,Netherlands,Plywood (C),Imports Quantity,123.86,1000 m3,CBI
+1991,New Zealand,Plywood (C),Imports Quantity,1.33,1000 m3,CI
+1991,Norway,Plywood (C),Imports Quantity,8.44,1000 m3,CBI
+1991,Portugal,Plywood (C),Imports Quantity,0.98,1000 m3,CI
+1991,Spain,Plywood (C),Imports Quantity,7.79,1000 m3,CI
+1991,Sweden,Plywood (C),Imports Quantity,27.21,1000 m3,CBI
+1991,United Kingdom,Plywood (C),Imports Quantity,376.7,1000 m3,CBI
+1991,United States,Plywood (C),Imports Quantity,27.07,1000 m3,C
+1990,Australia,Plywood (NC),Imports Quantity,37.9,1000 m3,CBI
+1990,Austria,Plywood (NC),Imports Quantity,69.04,1000 m3,CBI
+1990,Belgium,Plywood (NC),Imports Quantity,290.43,1000 m3,CBI
+1990,Canada,Plywood (NC),Imports Quantity,121.57,1000 m3,CI
+1990,Denmark,Plywood (NC),Imports Quantity,53.77,1000 m3,CI
+1990,Finland,Plywood (NC),Imports Quantity,12.36,1000 m3,CI
+1990,France,Plywood (NC),Imports Quantity,180.47,1000 m3,I
+1990,Greece,Plywood (NC),Imports Quantity,9.57,1000 m3,CI
+1990,Italy,Plywood (NC),Imports Quantity,51.55,1000 m3,CBI
+1990,Japan,Plywood (NC),Imports Quantity,2823.8,1000 m3,CI
+1990,Mexico,Plywood (NC),Imports Quantity,19.9,1000 m3,CI
+1990,Netherlands,Plywood (NC),Imports Quantity,211.71,1000 m3,CBI
+1990,New Zealand,Plywood (NC),Imports Quantity,2.7,1000 m3,CI
+1990,Norway,Plywood (NC),Imports Quantity,32.47,1000 m3,CBI
+1990,Portugal,Plywood (NC),Imports Quantity,1.81,1000 m3,CI
+1990,Spain,Plywood (NC),Imports Quantity,20.02,1000 m3,CI
+1990,Sweden,Plywood (NC),Imports Quantity,59.29,1000 m3,CBI
+1990,United Kingdom,Plywood (NC),Imports Quantity,454.12,1000 m3,CBI
+1990,United States,Plywood (NC),Imports Quantity,1270.27,1000 m3,CBI
+1991,Australia,Plywood (NC),Imports Quantity,40.77,1000 m3,C
+1991,Austria,Plywood (NC),Imports Quantity,76.63,1000 m3,CBI
+1991,Belgium,Plywood (NC),Imports Quantity,255.73,1000 m3,CBI
+1991,Canada,Plywood (NC),Imports Quantity,149.06,1000 m3,CI
+1991,Denmark,Plywood (NC),Imports Quantity,58.26,1000 m3,CI
+1991,Finland,Plywood (NC),Imports Quantity,20.31,1000 m3,CI
+1991,France,Plywood (NC),Imports Quantity,159.76,1000 m3,I
+1991,Germany,Plywood (NC),Imports Quantity,495.37,1000 m3,CI
+1991,Greece,Plywood (NC),Imports Quantity,8.25,1000 m3,CBI
+1991,Italy,Plywood (NC),Imports Quantity,51.5,1000 m3,CBI
+1991,Japan,Plywood (NC),Imports Quantity,3009.6,1000 m3,CI
+1991,Mexico,Plywood (NC),Imports Quantity,32.76,1000 m3,CI
+1991,Netherlands,Plywood (NC),Imports Quantity,199.47,1000 m3,CBI
+1991,New Zealand,Plywood (NC),Imports Quantity,2.02,1000 m3,CI
+1991,Norway,Plywood (NC),Imports Quantity,20.62,1000 m3,CBI
+1991,Portugal,Plywood (NC),Imports Quantity,1.88,1000 m3,CI
+1991,Spain,Plywood (NC),Imports Quantity,21.08,1000 m3,CI
+1991,Sweden,Plywood (NC),Imports Quantity,46.51,1000 m3,CBI
+1991,United Kingdom,Plywood (NC),Imports Quantity,441.53,1000 m3,CBI
+1991,United States,Plywood (NC),Imports Quantity,1315.05,1000 m3,C
+1990,Australia,Plywood (NC.T.),Imports Quantity,29.91,1000 m3,CBI
+1990,Austria,Plywood (NC.T.),Imports Quantity,30.9,1000 m3,CBI
+1990,Belgium,Plywood (NC.T.),Imports Quantity,275.75,1000 m3,CBI
+1990,Canada,Plywood (NC.T.),Imports Quantity,67.44,1000 m3,CI
+1990,Denmark,Plywood (NC.T.),Imports Quantity,26.36,1000 m3,CI
+1990,Finland,Plywood (NC.T.),Imports Quantity,5.28,1000 m3,CI
+1990,France,Plywood (NC.T.),Imports Quantity,130.01,1000 m3,I
+1990,Greece,Plywood (NC.T.),Imports Quantity,2.67,1000 m3,CI
+1990,Italy,Plywood (NC.T.),Imports Quantity,25.49,1000 m3,CBI
+1990,Japan,Plywood (NC.T.),Imports Quantity,2786.93,1000 m3,CI
+1990,Mexico,Plywood (NC.T.),Imports Quantity,17.6,1000 m3,CI
+1990,Netherlands,Plywood (NC.T.),Imports Quantity,170.75,1000 m3,CBI
+1990,New Zealand,Plywood (NC.T.),Imports Quantity,1.9,1000 m3,CI
+1990,Norway,Plywood (NC.T.),Imports Quantity,6.62,1000 m3,CBI
+1990,Portugal,Plywood (NC.T.),Imports Quantity,0.75,1000 m3,CI
+1990,Spain,Plywood (NC.T.),Imports Quantity,10.42,1000 m3,CI
+1990,Sweden,Plywood (NC.T.),Imports Quantity,13.75,1000 m3,CBI
+1990,United Kingdom,Plywood (NC.T.),Imports Quantity,382.84,1000 m3,CBI
+1990,United States,Plywood (NC.T.),Imports Quantity,1145.99,1000 m3,CBI
+1991,Australia,Plywood (NC.T.),Imports Quantity,36.9,1000 m3,C
+1991,Austria,Plywood (NC.T.),Imports Quantity,36,1000 m3,CBI
+1991,Belgium,Plywood (NC.T.),Imports Quantity,240.09,1000 m3,CBI
+1991,Canada,Plywood (NC.T.),Imports Quantity,63.04,1000 m3,CI
+1991,Denmark,Plywood (NC.T.),Imports Quantity,38.23,1000 m3,CI
+1991,Finland,Plywood (NC.T.),Imports Quantity,3.39,1000 m3,CI
+1991,France,Plywood (NC.T.),Imports Quantity,122.02,1000 m3,I
+1991,Germany,Plywood (NC.T.),Imports Quantity,202.43,1000 m3,CI
+1991,Greece,Plywood (NC.T.),Imports Quantity,7.14,1000 m3,CBI
+1991,Italy,Plywood (NC.T.),Imports Quantity,29.92,1000 m3,CBI
+1991,Japan,Plywood (NC.T.),Imports Quantity,2980.41,1000 m3,CI
+1991,Mexico,Plywood (NC.T.),Imports Quantity,25.72,1000 m3,CI
+1991,Netherlands,Plywood (NC.T.),Imports Quantity,167.62,1000 m3,CBI
+1991,New Zealand,Plywood (NC.T.),Imports Quantity,1.4,1000 m3,CI
+1991,Norway,Plywood (NC.T.),Imports Quantity,7.23,1000 m3,CBI
+1991,Portugal,Plywood (NC.T.),Imports Quantity,0.5,1000 m3,CI
+1991,Spain,Plywood (NC.T.),Imports Quantity,11.42,1000 m3,CI
+1991,Sweden,Plywood (NC.T.),Imports Quantity,14.33,1000 m3,CBI
+1991,United Kingdom,Plywood (NC.T.),Imports Quantity,397.08,1000 m3,CBI
+1991,United States,Plywood (NC.T.),Imports Quantity,1121.94,1000 m3,C

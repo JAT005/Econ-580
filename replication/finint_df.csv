@@ -1,0 +1,37 @@
+ISIC_code,Industrial_sectors,External_Finance
+311,Food,0.14
+313,Beverages,0.08
+314,Tobacco,-0.45
+321,"Textiles, Apparel & Leather",0.4
+3211,Spinning,-0.09
+322,Wearing Apparel,0.03
+323,Leather & Products,-0.14
+324,Footwear,-0.08
+331,Wood Products,0.28
+332,Furniture & Fixtures,0.24
+341,Paper & Products,0.18
+3411,"Pulp, paper",0.15
+342,Printing & Publishing,0.2
+3511,Basic exclud fert,0.25
+3513,Synthetic resins,0.16
+352,Other chemicals,0.22
+3522,Drugs & Medicines,1.49
+353,Petroleum Refineries,0.04
+354,Petroleum & Coal Products,0.33
+355,Rubber Products,0.23
+356,Plastic Products nec.,1.14
+361,"Pottery, China, etc.",-0.15
+362,Glass Products,0.53
+369,Non-Metallic Products nec.,0.06
+371,Iron & Steel,0.09
+372,Non-Ferrous Metals,0.01
+381,Metal Products,0.24
+382,Non-Electrical Machinery,0.45
+3825,Office & Computing,1.06
+383,Electrical Machinery,0.77
+3832,"Radio, TV & Communication",1.04
+384,Transport Equipment,0.31
+3841,Shipbuilding & Repairing,0.46
+3843,Motor Vehicles,0.39
+385,Professional Goods,0.96
+390,Other Manufacturing,0.47
